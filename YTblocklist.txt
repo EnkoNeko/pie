@@ -11,6 +11,7 @@
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gstatic.com
 0.0.0.0 i1.ytimg.com
