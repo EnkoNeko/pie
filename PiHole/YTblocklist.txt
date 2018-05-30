@@ -7,6 +7,7 @@
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 analytic-google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 doubleclick.com
@@ -27,6 +28,7 @@
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 yt3.ggpht.com
 
+0.0.0.0 2xge.googlevideo.com
 
 0.0.0.0 r1---sn-4g57kn7d.googlevideo.com
 0.0.0.0 r1---sn-4g57knek.googlevideo.com
@@ -38,6 +40,7 @@
 0.0.0.0 r1---sn-4g5ednls.googlevideo.com
 0.0.0.0 r1---sn-5hne6ne6.googlevideo.com
 0.0.0.0 r1---sn-5hne6nlr.googlevideo.com
+0.0.0.0 r1---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r2---sn-4g57knek.googlevideo.com
 0.0.0.0 r2---sn-4g57knzk.googlevideo.com
 0.0.0.0 r2---sn-4g5e6n7d.googlevideo.com
@@ -98,3 +101,4 @@
 0.0.0.0 r19---sn-4g57knkz.googlevideo.com
 0.0.0.0 r20---sn-4g57knde.googlevideo.com
 0.0.0.0 r20---sn-5hne6n76.googlevideo.com
+
