@@ -1,4 +1,4 @@
+# Repository for my Raspberry Pi projects
 
-Repository for all things Raspberry Pi.
+Pi-Hole
 
-Initial readme, repository creation - 06/05/2018
