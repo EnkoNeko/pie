@@ -9,7 +9,10 @@
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adservice.google.com.au
+0.0.0.0 adservice.google.de
 0.0.0.0 analytic-google.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 clients1.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
@@ -19,20 +22,22 @@
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 id.google.de
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 youtube-nocookie.com
-0.0.0.0 yt3.ggpht.com
-0.0.0.0 yt.moatads.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 y1.ytimg.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 yt3.ggpht.com
 
 0.0.0.0 2xge.googlevideo.com
 0.0.0.0 6.googlevideo.com
