@@ -6,7 +6,7 @@ Pi-Hole
 # Project ideas
 
 
-https://hackaday.io/project/1214-project-jarvis-ai-home-automation-assistant
+ai - https://hackaday.io/project/20481-melissa
 
 https://hackaday.io/project/18665-motion-tracking-airsoft-turret
 
