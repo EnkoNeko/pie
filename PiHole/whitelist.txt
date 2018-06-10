@@ -19,6 +19,7 @@ cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 ea.com
+proxy.novafusion.ea.com
 
 # Google Content (Maps, Google Play, Android, etc.)
 0.client-channel.google.com
@@ -137,7 +138,9 @@ www.plex.tv
 # Twitter, Snapchat
 app-analytics.snapchat.com
 cf-st.sc-cdn.net
+open.spotify.com
 sc-analytics.appspot.com
+spclient.wg.spotify.com
 twimg.com
 twitter.com
 www.twitter.com
@@ -152,5 +155,4 @@ keystone.mwbsys.com
 linkinghub.elsevier.com
 login.live.com
 media.pearsoncmg.com
-open.spotify.com
 qualtrics.com
