@@ -1,144 +1,34 @@
-appleid.apple.com
-icloud.com
-itunes.apple.com
-oscp.apple.com
+# Whitelist collected from various sources
+# Easiest way I found - "pihole -w [list]"
+# Last updated: 10/06/2018
 
-dl.dropbox.com
-dl.dropboxusercontent.com
-ns1.dropbox.com
-ns2.dropbox.com
 
-cdn.optimizely.com
-cdn2.optimizely.com
-cdn3.optimizely.com
-ea.com
-proxy.novafusion.ea.com
+# Apple
+appleid.apple.com icloud.com itunes.apple.com oscp.apple.com
 
-0.client-channel.google.com
-2.android.pool.ntp.org
-ajax.googleapis.com
-android.clients.google.com
-apis.google.com
-appsbackup-pa.clients6.google.com
-appsbackup-pa.googleapis.com
-appspot-preview.l.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
-connectivitycheck.android.com
-connectivitycheck.gstatic.com
-cse.google.com
-csi.gstatic.com
-dl.google.com
-fonts.gstatic.com
-g.live.com
-geo3.ggpht.com
-goo.gl
-google.com
-googleapis.com
-gstatic.com
-i.ytimg.com
-i1.ytimg.com
-manifest.googlevideo.com
-s.youtube.com
-s.ytimg.com
-ssl.google-analytics.com
-video-stats.l.google.com
-www.googleapis.com
-youtu.be
-youtube-nocookie.com
-youtube.com
+# Dropbox
+dl.dropbox.com dl.dropboxusercontent.com ns1.dropbox.com ns2.dropbox.com
 
-c.s-microsoft.com
-clientconfig.passport.net
-ctldl.windowsupdate.com
-displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
-geo-prod.do.dsp.mp.microsoft.com
-i.s-microsoft.com
-ipv6.msftncsi.com
-login.microsoftonline.com
-microsoftonline.com
-msftncsi.com
-office.com
-office.net
-office365.com
-officeclient.microsoft.com
-outlook.office365.com
-products.office.com
-s.gateway.messenger.live.com
-settings-win.data.microsoft.com
-v10.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
-www.msftncsi.com
+# EA
+cdn.optimizely.com cdn2.optimizely.com cdn3.optimizely.com ea.com proxy.novafusion.ea.com
 
-rover.ebay.com
-s.shopify.com
-s3.amazonaws.com
+# Google
+0.client-channel.google.com 2.android.pool.ntp.org ajax.googleapis.com android.clients.google.com apis.google.com appsbackup-pa.clients6.google.com appsbackup-pa.googleapis.com appspot-preview.l.google.com clients1.google.com clients2.google.com clients3.google.com clients4.google.com clients5.google.com clients6.google.com connectivitycheck.android.com connectivitycheck.gstatic.com cse.google.com csi.gstatic.com dl.google.com fonts.gstatic.com g.live.com geo3.ggpht.com goo.gl google.com googleapis.com gstatic.com i.ytimg.com i1.ytimg.com manifest.googlevideo.com s.youtube.com s.ytimg.com ssl.google-analytics.com video-stats.l.google.com www.googleapis.com youtu.be youtube-nocookie.com youtube.com
 
-d.reddit.com
-discourse.pi-hole.net
-gfwsl.geforce.com
-gist.githubusercontent.com
-github.io
-raw.githubusercontent.com
-tomshardware.com
-v.firebog.net
+# Microsoft
+c.s-microsoft.com clientconfig.passport.net ctldl.windowsupdate.com displaycatalog.mp.microsoft.com dl.delivery.mp.microsoft.com geo-prod.do.dsp.mp.microsoft.com i.s-microsoft.com ipv6.msftncsi.com login.microsoftonline.com microsoftonline.com msftncsi.com office.com office.net office365.com officeclient.microsoft.com outlook.office365.com products.office.com s.gateway.messenger.live.com settings-win.data.microsoft.com v10.events.data.microsoft.com v10.vortex-win.data.microsoft.com www.msftncsi.com
 
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-app-api.ted.com
-app.plex.tv
-cdn.vidible.tv
-cpms.spop10.ams.plex.bz
-cpms35.spop10.ams.plex.bz
-dashboard.plex.tv
-delivery.vidible.tv
-gravatar.com
-img.vidible.tv
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
-meta.plex.tv
-metrics.plex.tv
-netflix.com
-nine.plugins.plexapp.com
-node.plexapp.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-plex.tv
-proxy.plex.bz
-proxy.plex.tv
-proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
-sonarr.tv
-staging.plex.tv
-status.plex.tv
-themoviedb.com
-thetvdb.com
-tvdb2.plex.tv
-tvthemes.plexapp.com
-tvthemes.plexapp.com.cdn.cloudflare.net
-videos.vidible.tv
-www.plex.tv
+# Online retail
+rover.ebay.com s.shopify.com s3.amazonaws.com
 
-app-analytics.snapchat.com
-cf-st.sc-cdn.net
-open.spotify.com
-sc-analytics.appspot.com
-spclient.wg.spotify.com
-twimg.com
-twitter.com
-www.twitter.com
+# Reddit, Github, etc.
+d.reddit.com discourse.pi-hole.net gfwsl.geforce.com gist.githubusercontent.com github.io raw.githubusercontent.com tomshardware.com v.firebog.net
 
-adumen.com
-alluremedia.com.au
-api.ipify.org
-bit.ly
-journals.iucr.org
-keystone.mwbsys.com
-linkinghub.elsevier.com
-login.live.com
-media.pearsoncmg.com
-qualtrics.com
+# TV services
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services app-api.ted.com app.plex.tv cdn.vidible.tv cpms.spop10.ams.plex.bz cpms35.spop10.ams.plex.bz dashboard.plex.tv delivery.vidible.tv gravatar.com img.vidible.tv meta-db-worker02.pop.ric.plex.bz meta.plex.bz meta.plex.tv metrics.plex.tv netflix.com nine.plugins.plexapp.com node.plexapp.com o1.email.plex.tv o2.sg0.plex.tv plex.tv proxy.plex.bz proxy.plex.tv proxy02.pop.ord.plex.bz pubsub.plex.bz pubsub.plex.tv sonarr.tv staging.plex.tv status.plex.tv themoviedb.com thetvdb.com tvdb2.plex.tv tvthemes.plexapp.com tvthemes.plexapp.com.cdn.cloudflare.net videos.vidible.tv www.plex.tv 
+
+# Snapchat, Twitter, etc.
+app-analytics.snapchat.com cf-st.sc-cdn.net open.spotify.com sc-analytics.appspot.com spclient.wg.spotify.com twimg.com twitter.com www.twitter.com 
+
+# Random
+adumen.com alluremedia.com.au piazza.com api.ipify.org lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com login.live.com media.pearsoncmg.com qualtrics.com 
