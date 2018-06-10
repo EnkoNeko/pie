@@ -561,6 +561,7 @@
 # Trackers
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 a-graph.facebook.com
+0.0.0.0 a.akamaihd.net
 0.0.0.0 a.applvn.com
 0.0.0.0 a4.tl2
 0.0.0.0 aatkit.com
@@ -573,6 +574,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adswizz.com
 0.0.0.0 adtrackers.net
@@ -591,6 +593,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
 0.0.0.0 appboy.com
+0.0.0.0 applovin.com
 0.0.0.0 applvn.com
 0.0.0.0 appsflyer.com
 0.0.0.0 appspot-preview.l.google.com
@@ -608,6 +611,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bugsense.com
 0.0.0.0 burstly.com
+0.0.0.0 cdn.adfront.org
 0.0.0.0 cdn.kidoz.net
 0.0.0.0 cf-st.sc-cdn.net
 0.0.0.0 chartboost.com
@@ -673,6 +677,7 @@
 0.0.0.0 metrics.plex.tv
 0.0.0.0 mixpanel.com
 0.0.0.0 mng-ads.com
+0.0.0.0 moatads.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobileapptracking.com
 0.0.0.0 mopub.com
@@ -680,6 +685,8 @@
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 nexage.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 ns.zdbb.net
 0.0.0.0 omtrdc.net
 0.0.0.0 open.oneplus.net
 0.0.0.0 outbrain.com
@@ -712,6 +719,7 @@
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 sync2ad.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 tag.medialytics.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tapjoy.com
 0.0.0.0 telemetry.gfe.nvidia.com
@@ -733,6 +741,7 @@
 0.0.0.0 weborama.net
 0.0.0.0 widespace.com
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wsp.mgid.com
 0.0.0.0 www.adiode.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.usekahuna.com
