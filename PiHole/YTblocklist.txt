@@ -1,7 +1,5 @@
 ### YouTube ad blocklist for Pi-Hole by EnkoNeko ###
-
-# .doubleclick.net domains will also block many banner ads on Spotify
-# Spotify-specific ad domains in SPblocklist.txt
+# Will also block most Google ads
 
 0.0.0.0 2mdn.net
 0.0.0.0 ad-g.doubleclick.net
@@ -32,8 +30,10 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 y1.ytimg.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 yt.moatads.com
