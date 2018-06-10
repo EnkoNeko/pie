@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=EMfoS5XEYK0
 Random:  
 https://hackaday.io/project/18665-motion-tracking-airsoft-turret  
 https://github.com/thibmaek/awesome-raspberry-pi  
+https://github.com/s-matyukevich/raspberry-pi-os  
 https://github.com/jacobsalmela/raspberry-pi-router  
 https://bpwalters.com/blog/setting-up-a-raspberry-pi-web-server/  
 https://www.raspberrypi.org/forums/viewtopic.php?t=20826
