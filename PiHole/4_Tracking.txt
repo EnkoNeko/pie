@@ -2,7 +2,7 @@
 # If I see these adlists being maintained I will try and keep them updated
 # All credits to the sourced sites
 
-# This is not all the tracking sites I could find, just smaller ones I figured could be mashed together
+# This are not all the tracking sites I could find, just smaller ones I figured could be mashed together
 
 # Source - https://github.com/CHEF-KOCH/Audio-fingerprint-pages/blob/master/AudioFp.txt
 0.0.0.0 101progs.ru
