@@ -1,4 +1,4 @@
-# Pi-Hole whitelist, collected from various sources. Message me to ad *(hehe, get it?)* or remove something.
+# Pi-Hole whitelist, collected from various sources.
 # Last Updated: 10/06/2018
 
 
