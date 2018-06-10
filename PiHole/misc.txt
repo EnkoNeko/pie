@@ -549,14 +549,25 @@
 
 # Malware
 0.0.0.0 aloseks.org
-0.0.0.0 shortyz.co
-0.0.0.0 groceriesgiftcards.com
-0.0.0.0 campingforthefunofit.com
-0.0.0.0 cameforcameand33212.com
-0.0.0.0 jikenick12and67.com
-0.0.0.0 startdigitaal.nl
-0.0.0.0 uaswitcher.org
 0.0.0.0 api.data-monitor.info
+0.0.0.0 cameforcameand33212.com
+0.0.0.0 campingforthefunofit.com
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 cdn.msdwnld.com
+0.0.0.0 cdn.mypcbackup.com
+0.0.0.0 d3oxtn1x3b8d7i.cloudfront.net
+0.0.0.0 groceriesgiftcards.com
+0.0.0.0 inno.bisrv.com
+0.0.0.0 installer.betterinstaller.com
+0.0.0.0 installer.filebulldog.com
+0.0.0.0 jikenick12and67.com
+0.0.0.0 nsis.bisrv.com
+0.0.0.0 shortyz.co
+0.0.0.0 startdigitaal.nl
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+0.0.0.0 uaswitcher.org
 
 # Trackers
 0.0.0.0 1681.engine.mobileapptracking.com
