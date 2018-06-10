@@ -1,27 +1,19 @@
-# Pi-Hole whitelist, collected from various sources.
-# Last Updated: 10/06/2018
-
-
-# Apple
 appleid.apple.com
 icloud.com
 itunes.apple.com
 oscp.apple.com
 
-# Dropbox
 dl.dropbox.com
 dl.dropboxusercontent.com
 ns1.dropbox.com
 ns2.dropbox.com
 
-# EA / Origin
 cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 ea.com
 proxy.novafusion.ea.com
 
-# Google Content (Maps, Google Play, Android, etc.)
 0.client-channel.google.com
 2.android.pool.ntp.org
 ajax.googleapis.com
@@ -59,7 +51,6 @@ youtu.be
 youtube-nocookie.com
 youtube.com
 
-# Microsoft Windows/Office
 c.s-microsoft.com
 clientconfig.passport.net
 ctldl.windowsupdate.com
@@ -83,12 +74,10 @@ v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 www.msftncsi.com
 
-# Online retail
 rover.ebay.com
 s.shopify.com
 s3.amazonaws.com
 
-# Reddit, Github, etc.
 d.reddit.com
 discourse.pi-hole.net
 gfwsl.geforce.com
@@ -98,7 +87,6 @@ raw.githubusercontent.com
 tomshardware.com
 v.firebog.net
 
-# TV services
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 app-api.ted.com
 app.plex.tv
@@ -135,7 +123,6 @@ tvthemes.plexapp.com.cdn.cloudflare.net
 videos.vidible.tv
 www.plex.tv
 
-# Twitter, Snapchat
 app-analytics.snapchat.com
 cf-st.sc-cdn.net
 open.spotify.com
@@ -145,7 +132,6 @@ twimg.com
 twitter.com
 www.twitter.com
 
-# Random
 adumen.com
 alluremedia.com.au
 api.ipify.org
