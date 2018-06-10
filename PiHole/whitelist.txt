@@ -2,11 +2,6 @@
 # Last Updated: 10/06/2018
 
 
-# Online retail
-rover.ebay.com
-s.shopify.com
-s3.amazonaws.com
-
 # Apple
 appleid.apple.com
 icloud.com
@@ -86,6 +81,11 @@ settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 www.msftncsi.com
+
+# Online retail
+rover.ebay.com
+s.shopify.com
+s3.amazonaws.com
 
 # Reddit, Github, etc.
 d.reddit.com
