@@ -1,4 +1,0 @@
-# Collating smaller blocklists to reduce clutter in the Pi-Hole blocklist page
-# If I see these adlists being maintained I will try and keep them updated
-
-
