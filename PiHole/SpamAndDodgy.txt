@@ -2,6 +2,50 @@
 # If I see these adlists being maintained I will try and keep them updated
 # All credits to the sourced sites
 
+# Source - https://gist.github.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/
+ad.flipboard.com
+ads.viksaffiliates.com
+anzeigen-buchen.sueddeutsche.de
+anzeigen.sueddeutsche.de
+app-measurement.com
+blickonl-ssl.wemfbox.ch
+cdn2.teads.tv
+cdn.xplosion.de
+ciqcol01.ciq.labs.att.com
+click2createahero.net
+cn.tatami-solutions.com
+config.samqaicongen.com
+connect.facebook.net
+de-odc.samsungapps.com
+de.quasargaming.com
+developed.down.hontamelenton.co.com
+eu2-scloud-proxy.ssp.samsungosp.com
+ew1.dms-gld.bigdata.ssp.samsung.com
+f1-blick-ch.cdn.ampproject.org
+immobilienmarkt.sueddeutsche.de
+jpflmmxdflmm.com
+js.simploracdn.com
+lapalingo.com
+mobile.pipe.aria.microsoft.com
+ms.cmcm.com
+ollisbumsblog.com
+op.ule88.com
+quasargaming.zendesk.com
+reiseangebote.sueddeutsche.de
+rt.applovin.com
+samsungresources.visionobjects.com
+t.bauernative.com
+unconf.adkmob.com
+ups.ksmobile.net
+ups.xplosion.de
+us-knox.secb2b.com
+vas.samsungapps.com
+viks.cdn.netrefer.com
+w.dating-and-fuck.online
+www.spiegelgruppe-nachdrucke.de
+www.stargames.com
+www.viks.com
+xdm.wireless.att.com
 
 # Source: https://github.com/CHEF-KOCH/CKs-FilterList/tree/master/Corporations
 # Mostly Corporations: Pinterest, Skype, with a sprinkling of Spotify
