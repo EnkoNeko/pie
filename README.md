@@ -24,9 +24,17 @@ https://github.com/hybridgroup/gobot
 https://github.com/rwaldron/johnny-five  
 https://github.com/home-assistant/home-assistant
 
+Flight:  
+https://github.com/PiStuffing/Quadcopter  
+https://github.com/vjaunet/QUADCOPTER_V2  
+https://github.com/solenerotech/quadcopterPi  
+https://github.com/benripley/Arduino-Quadcopter
+
 
 Security camera:  
-https://www.youtube.com/watch?v=EMfoS5XEYK0
+https://www.youtube.com/watch?v=EMfoS5XEYK0  
+https://github.com/PiStuffing/NiteLite  
+https://github.com/PiStuffing/HogCam
 
 
 Random:  
@@ -36,6 +44,8 @@ https://github.com/s-matyukevich/raspberry-pi-os
 https://github.com/jacobsalmela/raspberry-pi-router  
 https://bpwalters.com/blog/setting-up-a-raspberry-pi-web-server/  
 https://www.raspberrypi.org/forums/viewtopic.php?t=20826
+https://github.com/PiStuffing/Kitty    ???
+
 
 https://www.youtube.com/channel/UCvrLvII5oxSWEMEkszrxXEA/videos
 
