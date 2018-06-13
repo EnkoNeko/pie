@@ -1,10 +1,8 @@
 # Source: https://github.com/CHEF-KOCH/CKs-FilterList/tree/master/Corporations
-# Mostly Corporations: Pinterest, Skype, with a sprinkling of Spotify
+# Corporations: Pinterest, Skype
 
-62.224.186.35.bc.googleusercontent.com
 a-0001.a-msedge.net
 a.ads2.msads.net
-a2-16-186-17.deploy.static.akamaitechnologies.com
 ac3.msn.com
 ad.doubleclick.net
 adnexus.net
@@ -18,7 +16,6 @@ aidps.atdmt.com
 aka-cdn-ns.adtech.de
 api.skype.com
 apps.skype.com
-audio4-ak.spotify.com.edgesuite.net
 b.ads2.msads.net
 bs.serving-sys.com
 c.atdmt.com
@@ -46,11 +43,8 @@ flex.msn.com
 flex.msn.com.nsatc.net
 g.msn.com
 global.msads.net
-googleadapis.l.google.com
-googleadservices.com
 h1.msn.com
 h2.msn.com
-i.scdn.co
 i1.services.social.microsoft.com
 i1.services.social.microsoft.com.nsatc.net
 live.rads.msn.com
