@@ -1,6 +1,6 @@
 # Whitelist collected from various sources
-# Easiest way I found - "pihole -w [list]"
-# Last updated: 10/06/2018
+# Easiest way I found - copy line, then "pihole -w [line]"
+# Last updated: 13/06/2018
 
 
 # Apple
