@@ -37,7 +37,7 @@
 0.0.0.0 y1.ytimg.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 yt.moatads.com
-0.0.0.0 yt3.ggpht.com
+# 0.0.0.0 yt3.ggpht.com    # Used for YouTube profile pics
 
 0.0.0.0 2xge.googlevideo.com
 0.0.0.0 6.googlevideo.com
