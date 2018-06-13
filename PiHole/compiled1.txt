@@ -13,9 +13,12 @@
     # https://github.com/ReddestDream/reddestdream.github.io/blob/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
     # https://github.com/ReddestDream/reddestdream.github.io/blob/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
     # https://gist.github.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/
+    # https://github.com/StevenBlack/hosts/blob/master/data/UncheckyAds/hosts
+    # https://github.com/StevenBlack/hosts/blob/master/data/add.Spam/hosts
 
 
 0.0.0.0 0576qq.com
+0.0.0.0 100.1qingdao.com
 0.0.0.0 101progs.ru
 0.0.0.0 1080.plus
 0.0.0.0 1174.getgiftcards.org
@@ -51,6 +54,7 @@
 0.0.0.0 6blog.ir
 0.0.0.0 703804.com
 0.0.0.0 7ganj.ir
+0.0.0.0 7minuteworkout.com
 0.0.0.0 80lou.com
 0.0.0.0 852867.com
 0.0.0.0 888casino.com
@@ -175,6 +179,7 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adcreative.naver.com
+0.0.0.0 addshoppers.com
 0.0.0.0 addthis.com
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 adf.send.microad.jp
@@ -277,6 +282,7 @@
 0.0.0.0 aebuster.com
 0.0.0.0 affairdating.com
 0.0.0.0 affiliate.2mdn.net
+0.0.0.0 affiliatecashpile.go2jump.org
 0.0.0.0 afkarnews.ir
 0.0.0.0 aftabnews.ir
 0.0.0.0 agariopvp.biz
@@ -343,6 +349,7 @@
 0.0.0.0 arena.wix.com
 0.0.0.0 arepita.ch
 0.0.0.0 ariyagame.com
+0.0.0.0 arklighting.co
 0.0.0.0 art-ideas.ir
 0.0.0.0 art.com
 0.0.0.0 artistdirect.com
@@ -401,6 +408,7 @@
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beagle-browser.com
 0.0.0.0 beautyguide247.com
+0.0.0.0 beaverday.biz
 0.0.0.0 becoquin.com
 0.0.0.0 becoquin.fr
 0.0.0.0 belloflostsouls.net
@@ -420,6 +428,7 @@
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigbash-2016.com
 0.0.0.0 biggab.com
+0.0.0.0 bigpayout.go2jump.org
 0.0.0.0 bigspringherald.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bitcasino.io
@@ -440,6 +449,7 @@
 0.0.0.0 boursenovin.ir
 0.0.0.0 boxingscene.com
 0.0.0.0 boxofficescoop.com
+0.0.0.0 brandedleadgeneration.com
 0.0.0.0 brandsdal.no
 0.0.0.0 brassminus.narod.ru
 0.0.0.0 bravefrontierglobal.blogspot.com
@@ -492,6 +502,7 @@
 0.0.0.0 cdn.adshexa.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 cdn.applift.com
+0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.bidvertiser.com
@@ -501,11 +512,13 @@
 0.0.0.0 cdn.cpsoft86.com
 0.0.0.0 cdn.directrev.com
 0.0.0.0 cdn.directtrk.com
+0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.phn.doublepimp.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.hgdat.com
+0.0.0.0 cdn.insta.playbryte.com
 0.0.0.0 cdn.kixer.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.mdotm.com
@@ -514,7 +527,9 @@
 0.0.0.0 cdn.merchenta.com
 0.0.0.0 cdn.millennialmedia.com
 0.0.0.0 cdn.mobicow.com
+0.0.0.0 cdn.msdwnld.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 cdn.mypcbackup.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 cdn.pubexchange.com
 0.0.0.0 cdn.pubnative.net
@@ -561,6 +576,7 @@
 0.0.0.0 clickadu.com
 0.0.0.0 clickandflirt.com
 0.0.0.0 clickenergy.com.au
+0.0.0.0 clicktshirtprinting.co.uk
 0.0.0.0 clinphar.cn
 0.0.0.0 clkmon.com
 0.0.0.0 clkrev.com
@@ -604,6 +620,7 @@
 0.0.0.0 creatives.doubleclick.net
 0.0.0.0 credibly.com
 0.0.0.0 credit-card-generator.2-ee.com
+0.0.0.0 creditauthpagev3.info
 0.0.0.0 crichd.co
 0.0.0.0 crichd.tv
 0.0.0.0 cricket-tv.net
@@ -621,6 +638,7 @@
 0.0.0.0 d-cache.microad.jp
 0.0.0.0 d.adroll.com
 0.0.0.0 d.plugrush.com
+0.0.0.0 d3oxtn1x3b8d7i.cloudfront.net
 0.0.0.0 dafycredit.com
 0.0.0.0 daganzx.com
 0.0.0.0 daguizx.com
@@ -632,6 +650,7 @@
 0.0.0.0 daminzx.com
 0.0.0.0 dammisesso.com
 0.0.0.0 danchimviet.info
+0.0.0.0 dandingo.go2jump.org
 0.0.0.0 daqinzx.com
 0.0.0.0 dart-apac.l.doubleclick.net
 0.0.0.0 darwinite-blog.com
@@ -640,6 +659,7 @@
 0.0.0.0 dbtechno.com
 0.0.0.0 de.cisive.net
 0.0.0.0 debriefdaily.com
+0.0.0.0 defenderxtactical.com
 0.0.0.0 deliver.ads2.iid.jp
 0.0.0.0 delivery.com
 0.0.0.0 delivery.switchadhub.com
@@ -666,6 +686,7 @@
 0.0.0.0 directrev.blob.core.windows.net
 0.0.0.0 disqusads.com
 0.0.0.0 divinefeet.com
+0.0.0.0 divisioncore.com
 0.0.0.0 dixipay.com
 0.0.0.0 dlove-music.rozblog.com
 0.0.0.0 doodleordie.com
@@ -717,6 +738,7 @@
 0.0.0.0 eldorado.com.ua
 0.0.0.0 elist10.com
 0.0.0.0 elvoline.com
+0.0.0.0 email.otherinbox.com
 0.0.0.0 emailaddresseslists.com
 0.0.0.0 embed.insticator.com
 0.0.0.0 emsworld.com
@@ -803,6 +825,7 @@
 0.0.0.0 finanzaspersonales.com.co
 0.0.0.0 firstgame.pro
 0.0.0.0 fishing-sh.com
+0.0.0.0 fitnesshealthreporter.com
 0.0.0.0 fitradio.com
 0.0.0.0 fiverr.com
 0.0.0.0 fiverrcdn.com
@@ -831,6 +854,7 @@
 0.0.0.0 freecodeshub.com
 0.0.0.0 freefidgetspinner.cf
 0.0.0.0 freefidgetspinner.net
+0.0.0.0 freeforums.org
 0.0.0.0 freegc.ga
 0.0.0.0 freegiftcard.cheatcorner.com
 0.0.0.0 freegiftcardcode.net
@@ -956,6 +980,7 @@
 0.0.0.0 go.mobisla.com
 0.0.0.0 go.padsdel.com
 0.0.0.0 go.padstm.com
+0.0.0.0 go2jump.org
 0.0.0.0 gogobot.com
 0.0.0.0 gomotrak.com
 0.0.0.0 gone-ta-pott.com
@@ -968,6 +993,7 @@
 0.0.0.0 googleplaygiftcardcode.xyz
 0.0.0.0 gqget.com
 0.0.0.0 gsnpakistan.com
+0.0.0.0 gtradersoft.com
 0.0.0.0 gutekueche.ch
 0.0.0.0 gyft.com
 0.0.0.0 gymboree.com
@@ -988,6 +1014,7 @@
 0.0.0.0 hdpfans.com
 0.0.0.0 healthecareers.com
 0.0.0.0 healthproductsforyou.com
+0.0.0.0 heartrevitalized.com
 0.0.0.0 heels.com
 0.0.0.0 hellohotties.com
 0.0.0.0 hellokids.com
@@ -1050,9 +1077,12 @@
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 innatthecrossroads.com
 0.0.0.0 inneractive-assets.s3.amazonaws.com
+0.0.0.0 inno.bisrv.com
 0.0.0.0 insanevisions.com
 0.0.0.0 inside-galaxy.blogspot.com
 0.0.0.0 insideparadeplatz.ch
+0.0.0.0 installer.betterinstaller.com
+0.0.0.0 installer.filebulldog.com
 0.0.0.0 instantcodegenerator.info
 0.0.0.0 instantgiftcodes.com
 0.0.0.0 integral-marketing.com
@@ -1085,6 +1115,7 @@
 0.0.0.0 jam.ua
 0.0.0.0 jamesallen.com
 0.0.0.0 jamiiyetubongo.com
+0.0.0.0 janeaustenjoy.com
 0.0.0.0 japan.inmobi.com
 0.0.0.0 jasaantar.com
 0.0.0.0 jav720p.com
@@ -1154,6 +1185,7 @@
 0.0.0.0 lawrenceburgnow.com
 0.0.0.0 lax1.ib.adnxs.com
 0.0.0.0 laymatures.co.uk
+0.0.0.0 lazyprofits.go2jump.org
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 leadback.advertising.com
 0.0.0.0 leakedmusic.ucoz.net
@@ -1231,6 +1263,7 @@
 0.0.0.0 media.trafficfactory.biz
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 mediaplex.fr
+0.0.0.0 medtecchina.com
 0.0.0.0 meetcircle.com
 0.0.0.0 meetdivorced.com
 0.0.0.0 meetwild.com
@@ -1270,6 +1303,7 @@
 0.0.0.0 morolo.net
 0.0.0.0 motifcdn.doubleclick.net
 0.0.0.0 motifcdn2.doubleclick.net
+0.0.0.0 motoren.ru
 0.0.0.0 moviemistakes.com
 0.0.0.0 moviesplanet.is
 0.0.0.0 mozifilm.eu
@@ -1293,6 +1327,7 @@
 0.0.0.0 mydas.mobi
 0.0.0.0 mydiet.com
 0.0.0.0 mydiyclub.com
+0.0.0.0 mydreamdegree.com
 0.0.0.0 myegy.forums.ag
 0.0.0.0 myfreeinstagramfoollowers.com
 0.0.0.0 myhacks.info
@@ -1325,11 +1360,14 @@
 0.0.0.0 ndinsider.com
 0.0.0.0 neatmovies.com
 0.0.0.0 neoseeker.com
+0.0.0.0 nero-us.com
 0.0.0.0 nesaporn.xyz
 0.0.0.0 net-games.co.il
 0.0.0.0 netshahr.com
 0.0.0.0 newhindisexstories.com
 0.0.0.0 news.ch
+0.0.0.0 news.nero-emea.com
+0.0.0.0 news.nero-us.com
 0.0.0.0 newshounds.us
 0.0.0.0 newshub.org
 0.0.0.0 newsiranian.ir
@@ -1344,9 +1382,11 @@
 0.0.0.0 notitarde.com
 0.0.0.0 novadune.com
 0.0.0.0 novaopt.ru
+0.0.0.0 novastarled.com
 0.0.0.0 nowwatchtvlive.me
 0.0.0.0 ns1.backbeatmedia.com
 0.0.0.0 ns2.backbeatmedia.com
+0.0.0.0 nsis.bisrv.com
 0.0.0.0 nutriliving.com
 0.0.0.0 nvidiavga.com
 0.0.0.0 nym1.ib.adnxs.com
@@ -1357,6 +1397,7 @@
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ocsp.apple.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 offerscience.go2jump.org
 0.0.0.0 officer.com
 0.0.0.0 ogar.be
 0.0.0.0 okceleb.com
@@ -1372,6 +1413,7 @@
 0.0.0.0 onevalefan.co.uk
 0.0.0.0 onlain-clip.ru
 0.0.0.0 online.freecodescheats.com
+0.0.0.0 onlineloan-personal.net
 0.0.0.0 onlinewatchmovies2k.com
 0.0.0.0 onlygirlvideos.com
 0.0.0.0 oodle.co.uk
@@ -1380,6 +1422,7 @@
 0.0.0.0 opoderdopolvo.com
 0.0.0.0 organifi.com
 0.0.0.0 origin.collective-media.net
+0.0.0.0 otherinbox.com
 0.0.0.0 ouargla30.com
 0.0.0.0 ourhf.com
 0.0.0.0 out.popads.net
@@ -1410,6 +1453,7 @@
 0.0.0.0 pawtuckettimes.com
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pb.ua
+0.0.0.0 pcbutts1-therealtruth.blogspot.com
 0.0.0.0 pcgamesupply.com
 0.0.0.0 pds.directrev.com
 0.0.0.0 pdxmugshots.com
@@ -1436,6 +1480,7 @@
 0.0.0.0 planday.dk
 0.0.0.0 planetavto.com.ua
 0.0.0.0 playcougar.com
+0.0.0.0 playlott.com
 0.0.0.0 playredeemcard.com
 0.0.0.0 plchinese.com
 0.0.0.0 pmo.rozblog.com
@@ -1463,6 +1508,7 @@
 0.0.0.0 prm.europacash.com
 0.0.0.0 probemas.com
 0.0.0.0 probonogiftcards.com
+0.0.0.0 profitsitesbiz.com
 0.0.0.0 projectfree-tv.to
 0.0.0.0 projectwonderful.com
 0.0.0.0 psnfree.com
@@ -1504,6 +1550,7 @@
 0.0.0.0 real-madrid.ir
 0.0.0.0 rebootillinois.com
 0.0.0.0 redheadpussy.com
+0.0.0.0 redhotfreebies.co.uk
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 redplanethotels.com
 0.0.0.0 redsoft.3dn.ru
@@ -1573,6 +1620,7 @@
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 securesignupoffers.org
 0.0.0.0 securityinfowatch.com
 0.0.0.0 segodnya.ua
 0.0.0.0 sellbetter.ca
@@ -1701,6 +1749,7 @@
 0.0.0.0 streamooo.blogspot.fr
 0.0.0.0 streamsex.com
 0.0.0.0 strikeadcdn.s3.amazonaws.com
+0.0.0.0 stsoftware.biz
 0.0.0.0 stuartweitzman.ca
 0.0.0.0 stupiddope.com
 0.0.0.0 stylefashionista.com
@@ -1739,6 +1788,7 @@
 0.0.0.0 tedxtube.com
 0.0.0.0 teensnow.com
 0.0.0.0 tehran98.com
+0.0.0.0 tekindustri.upnjatim.ac.id
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.appex.bing.net
@@ -1752,6 +1802,7 @@
 0.0.0.0 texaslawshield.com
 0.0.0.0 tgiftcards.com
 0.0.0.0 thebigcheats.com
+0.0.0.0 thedatingconference.com
 0.0.0.0 theelephantpants.com
 0.0.0.0 theeveningleader.com
 0.0.0.0 thefashionhall.com.br
@@ -1769,6 +1820,7 @@
 0.0.0.0 thyblackman.com
 0.0.0.0 tiket.com
 0.0.0.0 time4tv.com
+0.0.0.0 tinaborg.com
 0.0.0.0 tirebuyer.com
 0.0.0.0 tmonews.com
 0.0.0.0 todaysiphone.com
@@ -1782,6 +1834,7 @@
 0.0.0.0 track.adform.net
 0.0.0.0 track.lfstmedia.com
 0.0.0.0 track.netshelter.net
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 traffic.trafficposse.com
@@ -1817,6 +1870,7 @@
 0.0.0.0 undergradsuccess.com
 0.0.0.0 unida.ac.id
 0.0.0.0 unificationfrance.com
+0.0.0.0 unionleisurewear.com
 0.0.0.0 unitedsafety.net
 0.0.0.0 universerush.xyz
 0.0.0.0 unlimitedcodes.swimhealth.net
@@ -1833,6 +1887,7 @@
 0.0.0.0 uslawshield.com
 0.0.0.0 utopia-game.com
 0.0.0.0 uupload.ir
+0.0.0.0 va.tawk.to
 0.0.0.0 vaghayedaily.ir
 0.0.0.0 vanityplanet.com
 0.0.0.0 variety.com
@@ -1849,6 +1904,7 @@
 0.0.0.0 view.atdmt.com
 0.0.0.0 vipad.fr
 0.0.0.0 viralfact.com
+0.0.0.0 vntanktransport.com
 0.0.0.0 voisinssolitaires.com
 0.0.0.0 vokmirumir.ru
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
@@ -1857,6 +1913,7 @@
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vostelechargements.com
+0.0.0.0 vydoxtrial.com
 0.0.0.0 vype.com
 0.0.0.0 w.inmobi.com
 0.0.0.0 w.sharethis.com
@@ -1932,29 +1989,63 @@
 0.0.0.0 ww84.smartadserver.com
 0.0.0.0 wwd.com
 0.0.0.0 www-lvs.veoxa.com
+0.0.0.0 www.7minuteworkout.com
 0.0.0.0 www.888poker.com
 0.0.0.0 www.adcash.com
+0.0.0.0 www.addshoppers.com
 0.0.0.0 www.adnxs.com
 0.0.0.0 www.adshost2.com
 0.0.0.0 www.appnexus.com
+0.0.0.0 www.arklighting.co
 0.0.0.0 www.awltovhc.com
+0.0.0.0 www.beaverday.biz
 0.0.0.0 www.bidvertiser.com
+0.0.0.0 www.brandedleadgeneration.com
 0.0.0.0 www.burstnet.com
 0.0.0.0 www.buysellads.com
 0.0.0.0 www.clickterra.net
+0.0.0.0 www.clicktshirtprinting.co.uk
+0.0.0.0 www.creditauthpagev3.info
 0.0.0.0 www.da-ads.com
+0.0.0.0 www.defenderxtactical.com
+0.0.0.0 www.divisioncore.com
 0.0.0.0 www.doubleclick.com
 0.0.0.0 www.doubleclick.net
 0.0.0.0 www.dpbolvw.net
+0.0.0.0 www.fitnesshealthreporter.com
+0.0.0.0 www.freeforums.org
+0.0.0.0 www.go2jump.org
+0.0.0.0 www.gtradersoft.com
+0.0.0.0 www.heartrevitalized.com
 0.0.0.0 www.inmobi.com
+0.0.0.0 www.janeaustenjoy.com
 0.0.0.0 www.lduhtrp.net
+0.0.0.0 www.medtecchina.com
+0.0.0.0 www.motoren.ru
+0.0.0.0 www.mydreamdegree.com
+0.0.0.0 www.nero-us.com
+0.0.0.0 www.novastarled.com
+0.0.0.0 www.onlineloan-personal.net
+0.0.0.0 www.otherinbox.com
 0.0.0.0 www.outbrain.com
+0.0.0.0 www.oz-offers.com
+0.0.0.0 www.playlott.com
+0.0.0.0 www.profitsitesbiz.com
 0.0.0.0 www.projectwonderful.com
 0.0.0.0 www.quantserve.com
+0.0.0.0 www.redhotfreebies.co.uk
+0.0.0.0 www.securesignupoffers.org
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www.stsoftware.biz
 0.0.0.0 www.terraclicks.com
 0.0.0.0 www.terrapops.com
+0.0.0.0 www.thedatingconference.com
+0.0.0.0 www.tinaborg.com
+0.0.0.0 www.tkdami.net
 0.0.0.0 www.tqlkg.com
+0.0.0.0 www.unionleisurewear.com
+0.0.0.0 www.vntanktransport.com
+0.0.0.0 www.vydoxtrial.com
 0.0.0.0 www.yllix.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 www2.doubleclick.com
