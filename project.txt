@@ -1,0 +1,9 @@
+Firewall, Torrent, VPN
+
+https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
+https://www.raspberrypi.org/forums/viewtopic.php?t=46154
+https://medium.com/@jakobud/automatic-anonymous-bittorrent-downloading-using-a-raspberry-pi-b367a67de238
+http://www.pivpn.io/
+https://pimylifeup.com/raspberry-pi-vpn-server/
+https://readwrite.com/2014/04/10/raspberry-pi-vpn-tutorial-server-secure-web-browsing/
+https://www.howtogeek.com/142044/how-to-turn-a-raspberry-pi-into-an-always-on-bittorrent-box/
