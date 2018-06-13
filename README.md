@@ -40,6 +40,7 @@ https://github.com/PiStuffing/HogCam
 Random:  
 https://hackaday.io/project/18665-motion-tracking-airsoft-turret  
 https://github.com/thibmaek/awesome-raspberry-pi  
+https://github.com/macunixs/dualshock4-pi   
 https://github.com/s-matyukevich/raspberry-pi-os  
 https://github.com/jacobsalmela/raspberry-pi-router  
 https://bpwalters.com/blog/setting-up-a-raspberry-pi-web-server/  
