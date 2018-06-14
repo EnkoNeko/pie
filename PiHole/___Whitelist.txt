@@ -25,10 +25,10 @@ rover.ebay.com s.shopify.com s3.amazonaws.com
 d.reddit.com discourse.pi-hole.net gfwsl.geforce.com gist.githubusercontent.com github.io raw.githubusercontent.com tomshardware.com v.firebog.net
 
 # TV services
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services api.ning.com app-api.ted.com app.plex.tv cdn.vidible.tv cpms.spop10.ams.plex.bz cpms35.spop10.ams.plex.bz dashboard.plex.tv delivery.vidible.tv gravatar.com img.vidible.tv meta-db-worker02.pop.ric.plex.bz meta.plex.bz meta.plex.tv metrics.plex.tv netflix.com nine.plugins.plexapp.com node.plexapp.com o1.email.plex.tv o2.sg0.plex.tv plex.tv proxy.plex.bz proxy.plex.tv proxy02.pop.ord.plex.bz pubsub.plex.bz pubsub.plex.tv sonarr.tv staging.plex.tv status.plex.tv themoviedb.com thetvdb.com tvdb2.plex.tv tvthemes.plexapp.com tvthemes.plexapp.com.cdn.cloudflare.net videos.vidible.tv www.plex.tv 
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services app-api.ted.com app.plex.tv cdn.vidible.tv cpms.spop10.ams.plex.bz cpms35.spop10.ams.plex.bz dashboard.plex.tv delivery.vidible.tv gravatar.com img.vidible.tv meta-db-worker02.pop.ric.plex.bz meta.plex.bz meta.plex.tv metrics.plex.tv netflix.com nine.plugins.plexapp.com node.plexapp.com o1.email.plex.tv o2.sg0.plex.tv plex.tv proxy.plex.bz proxy.plex.tv proxy02.pop.ord.plex.bz pubsub.plex.bz pubsub.plex.tv sonarr.tv staging.plex.tv status.plex.tv themoviedb.com thetvdb.com tvdb2.plex.tv tvthemes.plexapp.com tvthemes.plexapp.com.cdn.cloudflare.net videos.vidible.tv www.plex.tv 
 
 # Snapchat, Twitter, etc.
 app-analytics.snapchat.com cf-st.sc-cdn.net open.spotify.com sc-analytics.appspot.com spclient.wg.spotify.com twimg.com twitter.com www.twitter.com 
 
 # Random
-adumen.com alluremedia.com.au piazza.com api.ipify.org lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com static1.squarespace.com static.squarespace.com login.live.com media.pearsoncmg.com qualtrics.com 
+adumen.com alluremedia.com.au piazza.com api.ipify.org api.ning.com lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com static1.squarespace.com static.squarespace.com login.live.com media.pearsoncmg.com qualtrics.com 
