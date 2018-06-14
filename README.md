@@ -12,7 +12,9 @@ https://github.com/WaLLy3K/Pi-hole-Block-Page
 AI: - No 
 Need USB Microphone  
 https://github.com/alexa/alexa-avs-sample-app  
-https://github.com/MycroftAI/mycroft-core
+https://github.com/MycroftAI/mycroft-core  
+https://github.com/snipsco/awesome-snips  
+https://github.com/Picovoice/Porcupine
 
 IoT: - No    
 Not really interesting enough, fiddly    
