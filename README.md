@@ -11,6 +11,8 @@ https://github.com/WaLLy3K/Pi-hole-Block-Page
 
 Camera: - Yes   
 https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero
+Further tweaking - https://github.com/HackerShackOfficial/Smart-Security-Camera
+
 
 AI: - No 
 Need USB Microphone  
