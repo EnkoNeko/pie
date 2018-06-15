@@ -9,6 +9,9 @@ https://github.com/WaLLy3K/Pi-hole-Block-Page
 # Project ideas
 
 
+Camera: - Yes   
+https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero
+
 AI: - No 
 Need USB Microphone  
 https://github.com/alexa/alexa-avs-sample-app  
@@ -32,11 +35,6 @@ https://github.com/benripley/Arduino-Quadcopter
 
 Machine Learning:  
 https://github.com/samjabrahams/tensorflow-on-raspberry-pi
-
-Security camera:  
-https://www.youtube.com/watch?v=EMfoS5XEYK0  
-https://github.com/HackerShackOfficial/Smart-Security-Camera
-
 
 Random:  
 https://github.com/thibmaek/awesome-raspberry-pi  
