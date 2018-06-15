@@ -5,6 +5,8 @@
 0.0.0.0 2mdn.net
 0.0.0.0 4827907.fls.doubleclick.net
 0.0.0.0 62.224.186.35.bc.googleusercontent.com
+0.0.0.0 r4---sn-ntqe6n76.googlevideo.com
+0.0.0.0 r2---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
