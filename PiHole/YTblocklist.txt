@@ -57,6 +57,7 @@
 0.0.0.0 r1---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-2xgl.googlevideo.com
+0.0.0.0 r1---sn-ppoxu-ntql.googlevideo.com
 0.0.0.0 r1---sn-q4f7sn7s.googlevideo.com
 0.0.0.0 r1---sn-vgqsen7z.googlevideo.com
 0.0.0.0 r1.sn-vgqsen7z.googlevideo.com
@@ -103,10 +104,13 @@
 0.0.0.0 r3---sn-4g5edne6.googlevideo.com
 0.0.0.0 r3---sn-5hnednlk.googlevideo.com
 0.0.0.0 r3---sn-a5mlrn7l.googlevideo.com
+0.0.0.0 r3---sn-f5p5-2xge.googlevideo.com
 0.0.0.0 r3---sn-f5p5-coxe.googlevideo.com
+0.0.0.0 r3---sn-h5ugpm-jb3z.googlevideo.com
 0.0.0.0 r3---sn-ntqe7n7s.googlevideo.com
 0.0.0.0 r3---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r3---sn-ppoxu-2xgl.googlevideo.com
+0.0.0.0 r3---sn-ppoxu-5qaz.googlevideo.com
 0.0.0.0 r4---sn-4g57kn6l.googlevideo.com
 0.0.0.0 r4---sn-4g57kn7d.googlevideo.com
 0.0.0.0 r4---sn-4g57kney.googlevideo.com
@@ -118,9 +122,12 @@
 0.0.0.0 r4---sn-5hnednlk.googlevideo.com
 0.0.0.0 r4---sn-hp57ynel.googlevideo.com
 0.0.0.0 r4---sn-ntqe6n76.googlevideo.com
+0.0.0.0 r4---sn-ntqe7n76.googlevideo.com
+0.0.0.0 r4---sn-oguelnl7.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-hxal.googlevideo.com
+0.0.0.0 r4---sn-ppoxu-hxas.googlevideo.com
 0.0.0.0 r4---sn-vgqs7nez.googlevideo.com
 0.0.0.0 r4.sn-vgqs7nez.googlevideo.com
 0.0.0.0 r5---sn-4g57kn6s.googlevideo.com
@@ -129,6 +136,8 @@
 0.0.0.0 r5---sn-4g5edn7l.googlevideo.com
 0.0.0.0 r5---sn-4g5ednle.googlevideo.com
 0.0.0.0 r5---sn-5uaeznks.googlevideo.com
+0.0.0.0 r5---sn-ntq7yned.googlevideo.com
+0.0.0.0 r5---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r6---sn-2gb7sn7s.googlevideo.com
 0.0.0.0 r6---sn-4g5e6n7k.googlevideo.com
 0.0.0.0 r6---sn-4g5e6nls.googlevideo.com
@@ -140,6 +149,7 @@
 0.0.0.0 r6---sn-5hne6nlr.googlevideo.com
 0.0.0.0 r6---sn-5hnednl7.googlevideo.com
 0.0.0.0 r6---sn-i3b7kn7z.googlevideo.com
+0.0.0.0 r6---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r6---sn-woc7en76.googlevideo.com
 0.0.0.0 r7---sn-4g57kndd.googlevideo.com
 0.0.0.0 r7---sn-4g57knze.googlevideo.com
