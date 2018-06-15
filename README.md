@@ -23,13 +23,15 @@ https://github.com/hybridgroup/gobot
 https://github.com/rwaldron/johnny-five  
 https://github.com/home-assistant/home-assistant
 
-Flight: - No   
+Flight: - Eh, no? Maybe?   
 Pricey, fiddly  
 https://github.com/PiStuffing/Quadcopter  
 https://github.com/vjaunet/QUADCOPTER_V2  
 https://github.com/solenerotech/quadcopterPi  
 https://github.com/benripley/Arduino-Quadcopter
 
+Machine Learning:  
+https://github.com/samjabrahams/tensorflow-on-raspberry-pi
 
 Security camera:  
 https://www.youtube.com/watch?v=EMfoS5XEYK0  
