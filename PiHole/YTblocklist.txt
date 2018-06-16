@@ -90,9 +90,13 @@
 0.0.0.0 r2---sn-5hne6n7z.googlevideo.com
 0.0.0.0 r2---sn-a5mlrn7l.googlevideo.com
 0.0.0.0 r2---sn-ab5szn7y.googlevideo.com
+0.0.0.0 r2---sn-f5p5-coxe.googlevideo.com
 0.0.0.0 r2---sn-h0jeen7r.googlevideo.com
+0.0.0.0 r2---sn-j5huxa-qa5e.googlevideo.com
+0.0.0.0 r2---sn-ntq7yn7l.googlevideo.com
 0.0.0.0 r2---sn-ntq7yn7z.googlevideo.com
 0.0.0.0 r2---sn-ntqe7n76.googlevideo.com
+0.0.0.0 r2---sn-ntqe7n7l.googlevideo.com
 0.0.0.0 r2---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r2---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 r2---sn-vgqs7n7k.googlevideo.com
