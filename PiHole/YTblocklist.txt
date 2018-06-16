@@ -54,7 +54,9 @@
 0.0.0.0 r1---sn-5hne6ne6.googlevideo.com
 0.0.0.0 r1---sn-5hne6nlr.googlevideo.com
 0.0.0.0 r1---sn-h5ugpm-jb3z.googlevideo.com
+0.0.0.0 r1---sn-npoe7n7r.googlevideo.com
 0.0.0.0 r1---sn-ntqe6n76.googlevideo.com
+0.0.0.0 r1---sn-p5qlsnd6.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-ntql.googlevideo.com
@@ -72,6 +74,7 @@
 0.0.0.0 r15---sn-4g57knr7.googlevideo.com
 0.0.0.0 r15---sn-5hne6nl6.googlevideo.com
 0.0.0.0 r16---sn-4g57kn7l.googlevideo.com
+0.0.0.0 r16---sn-c0q7ln7k.googlevideo.com
 0.0.0.0 r17---sn-4g57kn7s.googlevideo.com
 0.0.0.0 r17---sn-4g57knld.googlevideo.com
 0.0.0.0 r17---sn-vgqsenes.googlevideo.com
@@ -107,6 +110,8 @@
 0.0.0.0 r3---sn-f5p5-2xge.googlevideo.com
 0.0.0.0 r3---sn-f5p5-coxe.googlevideo.com
 0.0.0.0 r3---sn-h5ugpm-jb3z.googlevideo.com
+0.0.0.0 r3---sn-ntq7yned.googlevideo.com
+0.0.0.0 r3---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r3---sn-ntqe7n7s.googlevideo.com
 0.0.0.0 r3---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r3---sn-ppoxu-2xgl.googlevideo.com
@@ -121,9 +126,13 @@
 0.0.0.0 r4---sn-4g5ednle.googlevideo.com
 0.0.0.0 r4---sn-5hnednlk.googlevideo.com
 0.0.0.0 r4---sn-hp57ynel.googlevideo.com
+0.0.0.0 r4---sn-ntq7yn7s.googlevideo.com
+0.0.0.0 r4---sn-ntq7yned.googlevideo.com
 0.0.0.0 r4---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r4---sn-ntqe7n76.googlevideo.com
+0.0.0.0 r4---sn-nv47lnls.googlevideo.com
 0.0.0.0 r4---sn-oguelnl7.googlevideo.com
+0.0.0.0 r4---sn-p5qs7nes.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-hxal.googlevideo.com
@@ -149,6 +158,7 @@
 0.0.0.0 r6---sn-5hne6nlr.googlevideo.com
 0.0.0.0 r6---sn-5hnednl7.googlevideo.com
 0.0.0.0 r6---sn-i3b7kn7z.googlevideo.com
+0.0.0.0 r6---sn-ntq7yn7l.googlevideo.com
 0.0.0.0 r6---sn-ppoxu-2xge.googlevideo.com
 0.0.0.0 r6---sn-woc7en76.googlevideo.com
 0.0.0.0 r7---sn-4g57kndd.googlevideo.com
@@ -160,7 +170,6 @@
 0.0.0.0 r9---sn-5hne6n76.googlevideo.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 s.innovid.com
-0.0.0.0 s.youtube.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 securepubads.g.doubleclick.net
@@ -176,7 +185,6 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 y1.ytimg.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
