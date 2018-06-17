@@ -1,6 +1,6 @@
 # My whitelist
 # Easiest way I found - copy line, then "pihole -w [paste]"
-# Last updated: 14/06/2018
+# Last updated: 17/06/2018
 
 
 # Apple
