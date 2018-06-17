@@ -9,8 +9,8 @@ appleid.apple.com icloud.com itunes.apple.com oscp.apple.com
 # Dropbox
 dl.dropbox.com dl.dropboxusercontent.com ns1.dropbox.com ns2.dropbox.com
 
-# EA
-cdn.optimizely.com cdn2.optimizely.com cdn3.optimizely.com ea.com proxy.novafusion.ea.com
+# EA, Square Enix site
+cdn.optimizely.com cdn2.optimizely.com cdn3.optimizely.com ea.com proxy.novafusion.ea.com bs.serving-sys.com
 
 # Google
 0.client-channel.google.com 2.android.pool.ntp.org ajax.googleapis.com android.clients.google.com apis.google.com appsbackup-pa.clients6.google.com appsbackup-pa.googleapis.com appspot-preview.l.google.com clients1.google.com clients2.google.com clients3.google.com clients4.google.com clients5.google.com clients6.google.com connectivitycheck.android.com connectivitycheck.gstatic.com cse.google.com csi.gstatic.com dl.google.com fonts.gstatic.com g.live.com geo3.ggpht.com goo.gl google.com googleapis.com gstatic.com i.ytimg.com i1.ytimg.com manifest.googlevideo.com s.youtube.com s.ytimg.com ssl.google-analytics.com video-stats.l.google.com www.googleapis.com yt3.ggpht.com youtu.be youtube-nocookie.com youtube.com
