@@ -207,3 +207,12 @@
 0.0.0.0 r2---sn-a5m7zu7r.googlevideo.com
 0.0.0.0 r2---sn-n4v7sn7z.googlevideo.com
 0.0.0.0 r3---sn-a5m7znel.googlevideo.com
+
+#3:
+0.0.0.0 r1---sn-n4v7knll.googlevideo.com
+0.0.0.0 r1---sn-ntq7yn7l.googlevideo.com
+0.0.0.0 r1---sn-ntq7yn7z.googlevideo.com
+0.0.0.0 r1---sn-ntqe7n76.googlevideo.com
+0.0.0.0 r1---sn-ntqe7n7z.googlevideo.com
+0.0.0.0 r18---sn-q0c7dn7s.googlevideo.com
+0.0.0.0 r20---sn-c0q7ln7d.googlevideo.com
