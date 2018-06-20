@@ -1,6 +1,6 @@
 # My whitelist
 # Easiest way I found - copy line, then "pihole -w [paste]"
-# Last updated: 17/06/2018
+# Last updated: 20/06/2018
 
 
 # Apple
@@ -31,4 +31,4 @@ d.reddit.com discourse.pi-hole.net gfwsl.geforce.com gist.githubusercontent.com 
 app-analytics.snapchat.com cf-st.sc-cdn.net open.spotify.com sc-analytics.appspot.com spclient.wg.spotify.com twimg.com twitter.com www.twitter.com 
 
 # Random
-adumen.com alluremedia.com.au ak1s.abmr.net piazza.com api.ipify.org api.ning.com lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com static1.squarespace.com static.squarespace.com login.live.com media.pearsoncmg.com qualtrics.com 
+adumen.com alluremedia.com.au ak1s.abmr.net piazza.com api.ipify.org api.ning.com lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com static1.squarespace.com static.squarespace.com login.live.com media.pearsoncmg.com qualtrics.com www.researchgate.net
