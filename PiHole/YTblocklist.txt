@@ -1,6 +1,9 @@
 ### YouTube ad blocklist for Pi-Hole by EnkoNeko ###
 # Will also block most Google ads
 
+# Whitelisted, required for the video to play:
+# r1---sn-ppoxu-2xgl.googlevideo.com r2---sn-ntq7yned.googlevideo.com r4---sn-ppoxu-2xgl.googlevideo.com r5---sn-ntq7yned.googlevideo.com
+
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 2mdn.net
 0.0.0.0 4827907.fls.doubleclick.net
@@ -58,7 +61,6 @@
 0.0.0.0 r1---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r1---sn-p5qlsnd6.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-2xge.googlevideo.com
-0.0.0.0 r1---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 r1---sn-ppoxu-ntql.googlevideo.com
 0.0.0.0 r1---sn-q4f7sn7s.googlevideo.com
 0.0.0.0 r1---sn-vgqsen7z.googlevideo.com
@@ -138,7 +140,6 @@
 0.0.0.0 r4---sn-oguelnl7.googlevideo.com
 0.0.0.0 r4---sn-p5qs7nes.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-2xge.googlevideo.com
-0.0.0.0 r4---sn-ppoxu-2xgl.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-hxal.googlevideo.com
 0.0.0.0 r4---sn-ppoxu-hxas.googlevideo.com
 0.0.0.0 r4---sn-vgqs7nez.googlevideo.com
@@ -149,7 +150,6 @@
 0.0.0.0 r5---sn-4g5edn7l.googlevideo.com
 0.0.0.0 r5---sn-4g5ednle.googlevideo.com
 0.0.0.0 r5---sn-5uaeznks.googlevideo.com
-0.0.0.0 r5---sn-ntq7yned.googlevideo.com
 0.0.0.0 r5---sn-ntqe6n76.googlevideo.com
 0.0.0.0 r6---sn-2gb7sn7s.googlevideo.com
 0.0.0.0 r6---sn-4g5e6n7k.googlevideo.com
@@ -192,3 +192,18 @@
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yts.moatads.com
+
+#1
+0.0.0.0 r1---sn-a5m7lnes.googlevideo.com
+0.0.0.0 r1---sn-a5mlrnez.googlevideo.com
+0.0.0.0 r1---sn-f5p5-coxe.googlevideo.com
+0.0.0.0 r1---sn-n4v7sn7z.googlevideo.com
+0.0.0.0 r1---sn-p5qlsu7z.googlevideo.com
+0.0.0.0 r12---sn-a5m7ln7z.googlevideo.com
+
+#2
+0.0.0.0 r14---sn-o097zned.googlevideo.com
+0.0.0.0 r2---sn-a5m7lnez.googlevideo.com
+0.0.0.0 r2---sn-a5m7zu7r.googlevideo.com
+0.0.0.0 r2---sn-n4v7sn7z.googlevideo.com
+0.0.0.0 r3---sn-a5m7znel.googlevideo.com
