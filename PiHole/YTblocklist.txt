@@ -1,7 +1,7 @@
 ### YouTube ad blocklist for Pi-Hole by EnkoNeko ###
 # Will also block most Google ads
 
-# Whitelisted, required for the video to play:
+# Whitelist, required for the video to play:
 # r1---sn-ppoxu-2xgl.googlevideo.com r2---sn-ntq7yned.googlevideo.com r4---sn-ppoxu-2xgl.googlevideo.com r5---sn-ntq7yned.googlevideo.com r2---sn-ppoxu-2xgl.googlevideo.com
 
 0.0.0.0 2975c.v.fwmrm.net
@@ -216,3 +216,18 @@
 0.0.0.0 r1---sn-ntqe7n7z.googlevideo.com
 0.0.0.0 r18---sn-q0c7dn7s.googlevideo.com
 0.0.0.0 r20---sn-c0q7ln7d.googlevideo.com
+
+#4:
+r19---sn-c0q7ln7y.googlevideo.com
+r2---sn-5goeen7y.googlevideo.com
+r2---sn-ntq7yn7l.googlevideo.com
+r3---sn-ntq7yn7s.googlevideo.com
+r4---sn-hp57knll.googlevideo.com
+r4---sn-ntqe7n76.googlevideo.com
+
+#5:
+r10---sn-c0q7lnez.googlevideo.com
+r2---sn-h5ugpm-jb3z.googlevideo.com
+r4---sn-p5qs7nes.googlevideo.com
+r5---sn-25glene6.googlevideo.com
+
