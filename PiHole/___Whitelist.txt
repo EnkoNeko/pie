@@ -1,7 +1,5 @@
 # My whitelist
 # Easiest way I found - copy line, then "pihole -w [paste]"
-# Last updated: 20/06/2018
-
 
 # Apple
 appleid.apple.com icloud.com itunes.apple.com oscp.apple.com
