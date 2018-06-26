@@ -2,7 +2,8 @@
 
 Pi-Hole resources:  
 https://github.com/pi-hole/pi-hole  
-https://github.com/WaLLy3K/Pi-hole-Block-Page
+
+https://github.com/WaLLy3K/Pi-hole-Block-Page/blob/master/phbp.ini
 
 
 
