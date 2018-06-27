@@ -15,6 +15,7 @@ localytics.com
 mgid.com
 moatads.com
 mopub.com
+playercdn.net
 promo-market.net
 serving-sys.com
 sys.com
