@@ -4,6 +4,8 @@ a.adsrevenue.com
 acquisition-tracker.wix.com
 api.jetinteractive.com.au
 arteebee.tagsd.com
+bet365.com
+bet365.com.au
 c.algovid.com
 cdn-ssl.vidible.tv
 cdn.distiltag.com
@@ -15,9 +17,11 @@ cms.analytics.yahoo.com
 cpygames.com
 dmp.tenmax.io
 dt-secure.videohub.tv
+e2ertt.com
 expressvpn.com
 freemmo2017.com
 gamesrevenu24.com
+gamesrotator.com
 gle.com.au
 go.bebi.com
 ie8eamus.com
@@ -25,6 +29,7 @@ komito.net
 native.propellerads.com
 newsplatter.com
 offaces-butional.com
+openguid.org
 pbgrd.com
 randommaxtrix.com
 redir.bebi.com
@@ -38,6 +43,7 @@ spconcare-pvt-ltd.shopclues.com
 spconcare.com
 special-offers.online
 st.bebi.com
+static.openguid.org
 static.popads.net
 sync.springserve.com
 syndication.twitter.com
@@ -54,3 +60,4 @@ welcome.faptitans.com
 www.bcloudhost.com
 www.bet365.com
 www.bet365.com.au
+www.storygize.net
