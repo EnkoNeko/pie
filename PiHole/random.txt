@@ -1,18 +1,26 @@
 # Random URLs, mostly ads
-# Source: Me
 
 a.adsrevenue.com
 acquisition-tracker.wix.com
 api.jetinteractive.com.au
 arteebee.tagsd.com
+c.algovid.com
+cdn-ssl.vidible.tv
+cdn.distiltag.com
 cdn.mamrtb.com
 cdn.phone-analytics.com
+cdn15.acloudimages.com
 celebrityupdater.com
+cms.analytics.yahoo.com
 cpygames.com
+dmp.tenmax.io
+dt-secure.videohub.tv
 expressvpn.com
 freemmo2017.com
+gamesrevenu24.com
 gle.com.au
 go.bebi.com
+ie8eamus.com
 komito.net
 native.propellerads.com
 newsplatter.com
@@ -24,11 +32,25 @@ redir.mamrtb.com
 rotumal.com
 samsungseao.demdex.net
 saturn.appads.com
+scoring.adtelligent.com
 secure.adnxs.com
 spconcare-pvt-ltd.shopclues.com
 spconcare.com
 special-offers.online
 st.bebi.com
+static.popads.net
+sync.springserve.com
+syndication.twitter.com
+t.lkqd.net
 tr1521.tagsd.com
 tracking.applift.com
 trck.bebi.com
+v-44.algovid.com
+v.algovid.com
+vast.streamrail.net
+vid-io.springserve.com
+vpaid.springserve.com
+welcome.faptitans.com
+www.bcloudhost.com
+www.bet365.com
+www.bet365.com.au
