@@ -1,8 +1,8 @@
 # Wildcard blocked #
 2mdn.net
-buysellads.com
-bidswitch.com
 adserver.snapads.com
+bidswitch.com
+buysellads.com
 cdn.adfront.org
 cpmstar.com
 flurry.com
@@ -10,11 +10,12 @@ inmobi.com
 localytics.com
 moatads.com
 mopub.com
+serving-sys.com
+sys.com
+traffichaus.com
 trafficjunky.com
 trafficjunky.net
 wsp.mgid.com
-traffichaus.com
-freemmo2017.com
 
 # Blacklisted #
 2mdnsys.com
@@ -62,6 +63,5 @@ spconcare.com
 special-offers.online
 ssl.hwcdn.net
 steepto.com
-sys.com
 tracking.applift.com
 winhelptech.xyz
