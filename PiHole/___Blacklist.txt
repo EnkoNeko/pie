@@ -3,9 +3,11 @@
 2mdn.net
 2mdnsys.com
 addthis.com
+addthisedge.com
 adserver.snapads.com
 bebi.com
 bidswitch.com
+bidswitch.net
 buysellads.com
 cdn.adfront.org
 cpmstar.com
@@ -17,8 +19,12 @@ moatads.com
 mopub.com
 playercdn.net
 promo-market.net
+propellerads.com
+rotumal.com
 serving-sys.com
+steepto.com
 sys.com
+trafficforce.com
 traffichaus.com
 trafficjunky.com
 trafficjunky.net
