@@ -130,7 +130,7 @@ textarea, input, button { outline: none; }
   src: local("Source Sans Pro Bold"), local("SourceSansPro-Bold"), url("/admin/style/vendor/SourceSansPro/SourceSansPro-Bold.ttf") format("truetype");
 }
 
-body {
+body {    /* Flag1 - Change below "URL" to change the background picture*/
   background: #dbdbdb url("/admin/img/bg.jpg") repeat fixed;
   color: #333;
   font: 1.4rem "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -148,7 +148,7 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,0.5);
 }
 
-header {
+header {    /* Flag2 - header bar */
   background: #246b96;
   display: table;
   border-radius: 5px 5px 0 0;
@@ -201,7 +201,7 @@ header #bpAlt label {
   width: 100%;  
 }
 
-#bpAbout {
+#bpAbout {    /* Flag3 - Pop-up box */
   background: #246b96;
   border-bottom-left-radius: 5px;
   border: 1px solid #FFF;
@@ -217,7 +217,7 @@ header #bpAlt label {
   z-index: 1;
 }
 
-.aboutPH {
+.aboutPH {    /* Flag4 - inside of the pop-up box, background, etc */
   box-sizing: border-box;
   color: lime;
   background: #36393e;
@@ -256,7 +256,7 @@ header #bpAlt label {
   color: lime;
 }
 
-main {
+main {    /* Flag5 - Body background and text colour, font, etc. */
   background: #36393e; /* original - ecf0f5 */
   font-size: 1.65rem;
   padding: 10px;
@@ -299,7 +299,7 @@ main {
   width: 100%;
 }
 
-.buttons * {
+.buttons * {    /* Flag6 - Button font, rounded corners, etc. */
   -moz-appearance: none;
   -webkit-appearance: none;
   border-radius: 3px;
@@ -367,7 +367,7 @@ input[type=password] { font-size: 1.5rem; }
 #bpWLPassword { width: 160px; }
 #bpWhitelist { color: #fff; }
 
-footer {
+footer {    /* Flag7 - the footer, duh. Font, background colour */
   background: #484b51;
   border-top: 1px solid #757d7c;
   color: #444;
