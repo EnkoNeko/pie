@@ -29,10 +29,10 @@ Run **sudo service lighttpd force-reload** and you're done!
 
 In the CSS file, search for the following if you want to modify specific parts and are a noob at CSS like me.
 
-**Flag1** - Change the background picture.
-**Flag2** - The header bar colour and rounded corners. Go 2 code blocks down for header font.
-**Flag3** - The "Why am I here?" box of the header that brings up the pop-up box.
-**Flag4** - Inside of the above pop-up box.
-**Flag5** - The actual blockpage background colour, font, whatever.
-**Flag6** - Button details.
-**Flag7** - Footer details.
+**Flag1** - Change the background picture.   
+**Flag2** - The header bar colour and rounded corners. Go 2 code blocks down for header font.   
+**Flag3** - The "Why am I here?" box of the header that brings up the pop-up box.   
+**Flag4** - Inside of the above pop-up box.   
+**Flag5** - The actual blockpage background colour, font, whatever.   
+**Flag6** - Button details.   
+**Flag7** - Footer details.   
