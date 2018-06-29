@@ -1,63 +1,67 @@
 # Random URLs, mostly ads
 
-a.adsrevenue.com
-acquisition-tracker.wix.com
-api.jetinteractive.com.au
-arteebee.tagsd.com
-bet365.com
-bet365.com.au
-c.algovid.com
-cdn-ssl.vidible.tv
-cdn.distiltag.com
-cdn.mamrtb.com
-cdn.phone-analytics.com
-cdn15.acloudimages.com
-celebrityupdater.com
-cms.analytics.yahoo.com
-cpygames.com
-dmp.tenmax.io
-dt-secure.videohub.tv
-e2ertt.com
-expressvpn.com
-freemmo2017.com
-gamesrevenu24.com
-gamesrotator.com
-gle.com.au
-go.bebi.com
-ie8eamus.com
-komito.net
-native.propellerads.com
-newsplatter.com
-offaces-butional.com
-openguid.org
-pbgrd.com
-randommaxtrix.com
-redir.bebi.com
-redir.mamrtb.com
-rotumal.com
-samsungseao.demdex.net
-saturn.appads.com
-scoring.adtelligent.com
-secure.adnxs.com
-spconcare-pvt-ltd.shopclues.com
-spconcare.com
-special-offers.online
-st.bebi.com
-static.openguid.org
-static.popads.net
-sync.springserve.com
-syndication.twitter.com
-t.lkqd.net
-tr1521.tagsd.com
-tracking.applift.com
-trck.bebi.com
-v-44.algovid.com
-v.algovid.com
-vast.streamrail.net
-vid-io.springserve.com
-vpaid.springserve.com
-welcome.faptitans.com
-www.bcloudhost.com
-www.bet365.com
-www.bet365.com.au
-www.storygize.net
+0.0.0.0 a.adsrevenue.com
+0.0.0.0 acquisition-tracker.wix.com
+0.0.0.0 api.jetinteractive.com.au
+0.0.0.0 arteebee.tagsd.com
+0.0.0.0 bet365.com
+0.0.0.0 bet365.com.au
+0.0.0.0 c.algovid.com
+0.0.0.0 cdn-ssl.vidible.tv
+0.0.0.0 cdn.distiltag.com
+0.0.0.0 cdn.mamrtb.com
+0.0.0.0 cdn.phone-analytics.com
+0.0.0.0 cdn15.acloudimages.com
+0.0.0.0 celebrityupdater.com
+0.0.0.0 cms.analytics.yahoo.com
+0.0.0.0 cpygames.com
+0.0.0.0 dmp.tenmax.io
+0.0.0.0 dt-secure.videohub.tv
+0.0.0.0 e2ertt.com
+0.0.0.0 expressvpn.com
+0.0.0.0 freemmo2017.com
+0.0.0.0 gamesrevenu24.com
+0.0.0.0 gamesrotator.com
+0.0.0.0 gle.com.au
+0.0.0.0 go.bebi.com
+0.0.0.0 ie8eamus.com
+0.0.0.0 komito.net
+0.0.0.0 native.propellerads.com
+0.0.0.0 newsplatter.com
+0.0.0.0 offaces-butional.com
+0.0.0.0 openguid.org
+0.0.0.0 pbgrd.com
+0.0.0.0 pr-preprod.ybp.yahoo.com
+0.0.0.0 pr.ybp.yahoo.com
+0.0.0.0 randommaxtrix.com
+0.0.0.0 redir.bebi.com
+0.0.0.0 redir.mamrtb.com
+0.0.0.0 rotumal.com
+0.0.0.0 samsungseao.demdex.net
+0.0.0.0 saturn.appads.com
+0.0.0.0 scoring.adtelligent.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 spconcare-pvt-ltd.shopclues.com
+0.0.0.0 spconcare.com
+0.0.0.0 special-offers.online
+0.0.0.0 st.bebi.com
+0.0.0.0 static.openguid.org
+0.0.0.0 static.popads.net
+0.0.0.0 sync.springserve.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 t.lkqd.net
+0.0.0.0 tr1521.tagsd.com
+0.0.0.0 tracking.applift.com
+0.0.0.0 trck.bebi.com
+0.0.0.0 v-44.algovid.com
+0.0.0.0 v.algovid.com
+0.0.0.0 vast.streamrail.net
+0.0.0.0 vid-io.springserve.com
+0.0.0.0 vpaid.springserve.com
+0.0.0.0 welcome.faptitans.com
+0.0.0.0 www.bcloudhost.com
+0.0.0.0 www.bet365.com
+0.0.0.0 www.bet365.com.au
+0.0.0.0 www.snapengage.com
+0.0.0.0 www.storygize.net
+0.0.0.0 xvp.akamaized.net
