@@ -3,6 +3,7 @@
 
 # Whitelist, required for the video to play:
 # r1---sn-ppoxu-2xgl.googlevideo.com r2---sn-ntq7yned.googlevideo.com r4---sn-ppoxu-2xgl.googlevideo.com r5---sn-ntq7yned.googlevideo.com
+# r2---sn-ppoxu-2xge.googlevideo.com r5---sn-ntqe6n76.googlevideo.com
 
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 2mdn.net
