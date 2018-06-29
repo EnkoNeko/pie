@@ -3,8 +3,8 @@
 Pi-Hole resources:  
 https://github.com/pi-hole/pi-hole  
 
-https://github.com/WaLLy3K/Pi-hole-Block-Page/blob/master/phbp.ini
-
+https://github.com/WaLLy3K/Pi-hole-Block-Page   
+Use the instructions under "discontinued as of Pi-hole v3.2".
 
 
 # Project ideas
@@ -15,7 +15,7 @@ https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-
 Further tweaking - https://github.com/HackerShackOfficial/Smart-Security-Camera
 
 
-AI: - No 
+AI: - No   
 Need USB Microphone  
 https://github.com/alexa/alexa-avs-sample-app  
 https://github.com/MycroftAI/mycroft-core  
