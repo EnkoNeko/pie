@@ -52,6 +52,7 @@
 0.0.0.0 t.lkqd.net
 0.0.0.0 tr1521.tagsd.com
 0.0.0.0 tracking.applift.com
+0.0.0.0 trc.taboola.com
 0.0.0.0 trck.bebi.com
 0.0.0.0 v-44.algovid.com
 0.0.0.0 v.algovid.com
