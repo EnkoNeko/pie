@@ -29,4 +29,4 @@ cdn.discordapp.com d.reddit.com discordapp.com discourse.pi-hole.net gfwsl.gefor
 app-analytics.snapchat.com cf-st.sc-cdn.net i.scdn.co open.spotify.com sc-analytics.appspot.com spclient.wg.spotify.com twimg.com twitter.com www.twitter.com 
 
 # Various sites and CDNs
-adumen.com alluremedia.com.au ak1s.abmr.net piazza.com api.ipify.org api.ning.com lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com s1.wp.com static1.squarespace.com static.squarespace.com stats.wp.com login.live.com media.pearsoncmg.com qualtrics.com www.researchgate.net
+adumen.com alluremedia.com.au ak1s.abmr.net piazza.com api.ipify.org api.ning.com lms.curtin.edu.au js-agent.newrelic.com curtin.edu.au echo360.org.au bit.ly journals.iucr.org keystone.mwbsys.com linkinghub.elsevier.com pubnub.com s1.wp.com static1.squarespace.com static.squarespace.com stats.wp.com login.live.com media.pearsoncmg.com qualtrics.com use.typekit.net www.researchgate.net
