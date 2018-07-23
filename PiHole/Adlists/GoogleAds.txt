@@ -22,6 +22,7 @@
 0.0.0.0 adservice.google.com.au
 0.0.0.0 adservice.google.de
 0.0.0.0 analytic-google.com
+0.0.0.0 analytics.google.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 clients.l.google.com
 0.0.0.0 clients1.google.com
@@ -30,9 +31,11 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclickbygoogle.com
 0.0.0.0 dts.innovid.com
+0.0.0.0 ee-in-f95.1.e100.net
 0.0.0.0 files.adform.net
 0.0.0.0 fwmrm.net
 0.0.0.0 g.doubleclick.net
+0.0.0.0 gcdn.2mdn.net
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
@@ -46,12 +49,14 @@
 0.0.0.0 id.google.de
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 innovid.com
+0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 pagead1.googlesyndication.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pubads.g.doubleclick.net
@@ -203,6 +208,7 @@
 0.0.0.0 r9---sn-5hne6n76.googlevideo.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 s.innovid.com
+0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 securepubads.g.doubleclick.net
