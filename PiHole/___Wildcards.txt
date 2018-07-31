@@ -1,33 +1,41 @@
-reddit-d.openx.net
-
-# Wildcard blocked #
+# Wildcard blacklisted #
 
 2mdn.net
 2mdnsys.com
+abbp1.com
 addthis.com
 addthisedge.com
 adserver.snapads.com
+bat.bing.com
 bebi.com
 bidswitch.com
 bidswitch.net
+bing.com
 buysellads.com
 cdn.adfront.org
 cpmstar.com
+criteo.com
+criteo.net
 flurry.com
+focuusing.com
 inmobi.com
 localytics.com
+lotterymaster.com
 mgid.com
 moatads.com
 mopub.com
 playercdn.net
+popads.net
 promo-market.net
 propellerads.com
 rotumal.com
 serving-sys.com
+sexgangsters.com
 steepto.com
 sys.com
 trafficforce.com
 traffichaus.com
 trafficjunky.com
 trafficjunky.net
+video-ak.cdn.spotify.com
 wsp.mgid.com
