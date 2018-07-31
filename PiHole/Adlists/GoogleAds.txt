@@ -2,8 +2,7 @@
 # Will also block most Google ads
 
 # Whitelist, required for the video to play:
-# r1---sn-ppoxu-2xgl.googlevideo.com r2---sn-ntq7yned.googlevideo.com r4---sn-ppoxu-2xgl.googlevideo.com r5---sn-ntq7yned.googlevideo.com
-# r2---sn-ppoxu-2xge.googlevideo.com r5---sn-ntqe6n76.googlevideo.com
+# r1---sn-ppoxu-2xge.googlevideo.com r1---sn-ppoxu-2xgl.googlevideo.com r2---sn-ntq7yned.googlevideo.com r2---sn-ppoxu-2xge.googlevideo.com r2---sn-ppoxu-2xgl.googlevideo.com r3---sn-ntqe6n76.googlevideo.com r3---sn-ppoxu-2xge.googlevideo.com r4---sn-ppoxu-2xge.googlevideo.com r4---sn-ppoxu-2xgl.googlevideo.com r5---sn-ntq7yned.googlevideo.com r5---sn-ntqe6n76.googlevideo.com r6---sn-ppoxu-2xge.googlevideo.com
 
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 2mdn.net
@@ -199,6 +198,10 @@
 0.0.0.0 r6---sn-i3b7kn7z.googlevideo.com
 0.0.0.0 r6---sn-ntq7yn7l.googlevideo.com
 0.0.0.0 r6---sn-woc7en76.googlevideo.com
+0.0.0.0 r5---sn-3pm76n7z.googlevideo.com
+0.0.0.0 r5---sn-h0jeeney.googlevideo.com
+0.0.0.0 r5---sn-qxoedn7d.googlevideo.com
+0.0.0.0 r6---sn-ntq7yn7z.googlevideo.com
 0.0.0.0 r7---sn-4g57kndd.googlevideo.com
 0.0.0.0 r7---sn-4g57knze.googlevideo.com
 0.0.0.0 r8---sn-4g57knkr.googlevideo.com
