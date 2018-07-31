@@ -1,18 +1,16 @@
-# Repository for my Raspberry Pi projects
+# Current projects
 
 Pi-Hole resources:  
 https://github.com/pi-hole/pi-hole  
-
 https://github.com/WaLLy3K/Pi-hole-Block-Page   
 Use the instructions under "discontinued as of Pi-hole v3.2".
 
+Camera:  
+https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero  
+Further tweaking - https://github.com/HackerShackOfficial/Smart-Security-Camera
+
 
 # Project ideas
-
-
-Camera: - Yes   
-https://www.bouvet.no/bouvet-deler/utbrudd/building-a-motion-activated-security-camera-with-the-raspberry-pi-zero
-Further tweaking - https://github.com/HackerShackOfficial/Smart-Security-Camera
 
 
 AI: - No   
