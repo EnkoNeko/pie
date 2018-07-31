@@ -2,10 +2,14 @@
 
 0.0.0.0 a.admob.com
 0.0.0.0 a.adsrevenue.com
+0.0.0.0 a.rfihub.com
 0.0.0.0 a1294.w20.akamai.net
 0.0.0.0 a1843.g.akamai.net
+0.0.0.0 a22f0d8201ade09fa3.com
+0.0.0.0 a4643.casalemedia.com
 0.0.0.0 a50.g2.akamai.net
 0.0.0.0 ab.tune.com
+0.0.0.0 abbp1.com
 0.0.0.0 ac1.vip.sc9.admob.com
 0.0.0.0 ac208.sc9.admob.com
 0.0.0.0 academy.tune.com
@@ -54,6 +58,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 apx.moatads.com
 0.0.0.0 arteebee.tagsd.com
+0.0.0.0 as.casalemedia.com
 0.0.0.0 aser.comscore.com
 0.0.0.0 atom.adjust.com
 0.0.0.0 b.admob.com
@@ -62,17 +67,22 @@
 0.0.0.0 bet365.com
 0.0.0.0 bet365.com.au
 0.0.0.0 beta.tune.com
+0.0.0.0 bing.com
+0.0.0.0 blatungo.com
+0.0.0.0 breakingfeedz.com
 0.0.0.0 broadcast.admob.com
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bsams.eyeblaster.akadns.net
 0.0.0.0 c-evt.moatads.com
 0.0.0.0 c.admob.com
 0.0.0.0 c.algovid.com
+0.0.0.0 c.bebi.com
 0.0.0.0 c1.vip.sc9.admob.com
 0.0.0.0 cdn-ssl.vidible.tv
 0.0.0.0 cdn.distiltag.com
 0.0.0.0 cdn.mamrtb.com
 0.0.0.0 cdn.phone-analytics.com
+0.0.0.0 cdn.welcome.faptitans.com
 0.0.0.0 cdn15.acloudimages.com
 0.0.0.0 cdr.comscore.com
 0.0.0.0 celebrityupdater.com
@@ -81,6 +91,7 @@
 0.0.0.0 clk1.vip.sc9.admob.com
 0.0.0.0 clk2.vip.sc9.admob.com
 0.0.0.0 clk3.vip.sc9.admob.com
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 comscore.net
 0.0.0.0 comscore.org
@@ -89,6 +100,7 @@
 0.0.0.0 comscoredirect.net
 0.0.0.0 comscorenetworks.net
 0.0.0.0 configuration.ma.tune.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 corp.tune.com
 0.0.0.0 cp.tune.com
 0.0.0.0 cpm.admob.com
@@ -111,6 +123,9 @@
 0.0.0.0 developer.admob.com
 0.0.0.0 developers.intercom.io
 0.0.0.0 dmp.tenmax.io
+0.0.0.0 doubleclickbygoogle.com
+0.0.0.0 download.mywebface.com
+0.0.0.0 drazens.com
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dt-secure.videohub.tv
 0.0.0.0 e.admob.com
@@ -118,6 +133,7 @@
 0.0.0.0 e2ertt.com
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 e8218.dscb1.akamaiedge.net
+0.0.0.0 easyhomedecorating.com
 0.0.0.0 ejs.moatads.com
 0.0.0.0 eng.admob.com
 0.0.0.0 engineering.intercom.io
@@ -125,6 +141,7 @@
 0.0.0.0 event.api.cp.tune.com
 0.0.0.0 events.adjust.com
 0.0.0.0 evt.moatads.com
+0.0.0.0 exdynsrv.com
 0.0.0.0 expressvpn.com
 0.0.0.0 f.admob.com
 0.0.0.0 freemmo2017.com
@@ -141,8 +158,10 @@
 0.0.0.0 geo.moatads.com
 0.0.0.0 gle.com.au
 0.0.0.0 go.bebi.com
+0.0.0.0 go.oclasrv.com
 0.0.0.0 gw.admob.com
 0.0.0.0 h.admob.com
+0.0.0.0 hentaipros.com
 0.0.0.0 i.admob.com
 0.0.0.0 ia1.comscore.com
 0.0.0.0 ia2.comscore.com
@@ -195,6 +214,7 @@
 0.0.0.0 mycomscore.com
 0.0.0.0 mymetrix.comscore.com
 0.0.0.0 myresearch.comscore.com
+0.0.0.0 mysporttab.com
 0.0.0.0 n.admob.com
 0.0.0.0 native.propellerads.com
 0.0.0.0 network.admob.com
@@ -202,6 +222,7 @@
 0.0.0.0 nexus-testing.intercom.io
 0.0.0.0 nexus-websocket-a.intercom.io
 0.0.0.0 nexus.intercom.io
+0.0.0.0 nutaku.net
 0.0.0.0 o.admob.com
 0.0.0.0 offaces-butional.com
 0.0.0.0 omaze.com
@@ -220,10 +241,12 @@
 0.0.0.0 pool5.moatads.com
 0.0.0.0 post.update.moatads.com
 0.0.0.0 postbuy.comscore.com
+0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr-preprod.ybp.yahoo.com
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 proclarity.comscore.com
 0.0.0.0 pt.admob.com
+0.0.0.0 px.gamesrevenue.com
 0.0.0.0 px.moatads.com
 0.0.0.0 q.admob.com
 0.0.0.0 qat.comscore.com
@@ -232,12 +255,14 @@
 0.0.0.0 r.admob.com
 0.0.0.0 r2.vip.sc9.admob.com
 0.0.0.0 randommaxtrix.com
+0.0.0.0 reddit-d.openx.net
 0.0.0.0 redir.bebi.com
 0.0.0.0 redir.mamrtb.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 request.api.cp.tune.com
 0.0.0.0 rmd.admob.com
 0.0.0.0 rotumal.com
+0.0.0.0 rtb-use.mfadsrvr.com
 0.0.0.0 s-jsonp.moatads.com
 0.0.0.0 s.admob.com
 0.0.0.0 s.moatads.com
@@ -265,6 +290,7 @@
 0.0.0.0 stage.tune.com
 0.0.0.0 static.openguid.org
 0.0.0.0 static.popads.net
+0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 status.intercom.io
 0.0.0.0 store.intercom.io
 0.0.0.0 support.tune.com
@@ -285,6 +311,7 @@
 0.0.0.0 track.leanlab.co
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.applift.com
+0.0.0.0 traffic.focuusing.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trck.bebi.com
 0.0.0.0 tribpubdfp745347008913.s.moatpixel.com
@@ -330,8 +357,12 @@
 0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bet365.com.au
+0.0.0.0 www.cbussuper.com.au
 0.0.0.0 www.comscore.com
 0.0.0.0 www.cp.tune.com
+0.0.0.0 www.doubleclickbygoogle.com
+0.0.0.0 www.expresvpn-private-analytics.net
+0.0.0.0 www.get-express-vpn.com
 0.0.0.0 www.intercom.io
 0.0.0.0 www.mixpanel.com
 0.0.0.0 www.moatads.com
@@ -351,6 +382,5 @@
 0.0.0.0 yts.moatads.com
 0.0.0.0 z.admob.com
 0.0.0.0 z.moatads.com
-0.0.0.0 zhcn.admob.com
-0.0.0.0 www.cbussuper.com.au
 0.0.0.0 zabeelhouse.com
+0.0.0.0 zhcn.admob.com
