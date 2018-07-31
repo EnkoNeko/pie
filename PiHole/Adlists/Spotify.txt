@@ -3,19 +3,20 @@
 # Wildcard blacklist: video-ak.cdn.spotify.com
 
 
+0.0.0.0 2a7e9.v.fwmrm.net
+0.0.0.0 9.rarbg.to
 0.0.0.0 a2-16-186-17.deploy.static.akamaitechnologies.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.comadplexmedia.adk2x.com
 0.0.0.0 ads-akp.spotify.com
 0.0.0.0 ads-fa.spotify.com
+0.0.0.0 ads-pres.channel4.com
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.spotify.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 assets.spotify.com
-0.0.0.0 displayf-tm.everesttech.net
-0.0.0.0 statsf-tm.everesttech.net
-0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-ak.spotify.com.edgesuite.net
@@ -42,9 +43,12 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 beta.spotify.map.fastlylb.net
+0.0.0.0 bigfoot1942.sektori.org
 0.0.0.0 bounceexchange.com
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 cdn.http.anno.channel4.com
 0.0.0.0 cdn.ravenjs.com
+0.0.0.0 cdn.ss.anno.channel4.com
 0.0.0.0 cloudfront.net
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 core.insightexpressai.com
@@ -54,6 +58,7 @@
 0.0.0.0 d2gi7ultltnc2u.cloudfront.net
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 desktop.spotify.com
+0.0.0.0 displayf-tm.everesttech.net
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 ee-in-f95.1.e100.net
 0.0.0.0 eip-ntt.audio-ak.spotify.com.akahost.net
@@ -80,6 +85,7 @@
 0.0.0.0 js.moatads.com
 0.0.0.0 links.iterable.com
 0.0.0.0 links.spotify.com
+0.0.0.0 log-ingestion-eu.samsungacr.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log2.spotify.com
 0.0.0.0 lon3-weblb-wg3.lon3.spotify.com
@@ -88,6 +94,7 @@
 0.0.0.0 mp3ad.scdn.co
 0.0.0.0 omaze.com
 0.0.0.0 on3-weblb-wg2.lon3.spotify.com
+0.0.0.0 p.videologygroup.com
 0.0.0.0 partner-service-testing.spotify.com
 0.0.0.0 partner-service.spotify.com
 0.0.0.0 payment-callback.spotify.com
@@ -98,20 +105,33 @@
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 ravenjs.com
 0.0.0.0 redirector.gvt1.com
+0.0.0.0 retracker.spb.ru
 0.0.0.0 rlcdn.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 samsung-eden.wuaki.tv
+0.0.0.0 scontent-lht6-1.xx.fbcdn.net
+0.0.0.0 scontent.flhr4-1.fna.fbcdn.net
+0.0.0.0 scontent.flhr4-2.fna.fbcdn.net
 0.0.0.0 search.spotxchange.com
 0.0.0.0 seen-on-screen.thewhizmarketing.com
 0.0.0.0 server-54-230-216-203.mrs50.r.cloudfront.net
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spotxchange.com
+0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
 0.0.0.0 sto3-weblb-wg4.sto3.spotify.com
 0.0.0.0 sto3.spotify.com
+0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 tap-client-stats.s3-eu-west-1.amazonaws.com
+0.0.0.0 tracker.pirateparty.gr
+0.0.0.0 tracker.tfile.me
+0.0.0.0 tracker2.wasabii.com.tw
+0.0.0.0 tracker2.wasabii.com.tw.home
 0.0.0.0 u.scdn.co
 0.0.0.0 upgrade.scdn.co
 0.0.0.0 upgrade.spotify.com
+0.0.0.0 v.fwmrm.net
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 video-fa-b.cdn.spotify.com
 0.0.0.0 video-fa.cdn.spotify.com
@@ -119,4 +139,4 @@
 0.0.0.0 weblb-wg.dual-gslb.spotify.com
 0.0.0.0 weblb-wg.gslb.spotify.com
 0.0.0.0 www.omaze.com
-0.0.0.0 www.spotx.tv
+0.0.0.0 www.spotx.vt
