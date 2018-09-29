@@ -16,7 +16,7 @@
     # https://gist.github.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/
     # https://github.com/StevenBlack/hosts/blob/master/data/UncheckyAds/hosts
     # https://github.com/StevenBlack/hosts/blob/master/data/add.Spam/hosts
-
+    # https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/Corporations/Skype%20Ad-Free/CK's-Skype-FilterList.txt
 
 0.0.0.0 0576qq.com
 0.0.0.0 100.1qingdao.com
@@ -80,6 +80,7 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adtech.de
+0.0.0.0 a.config.skype.com
 0.0.0.0 a.goember.com
 0.0.0.0 a.jumptap.com
 0.0.0.0 a.kat.cr
@@ -179,11 +180,13 @@
 0.0.0.0 adb.nikkei.co.jp
 0.0.0.0 adcash.com
 0.0.0.0 adcel.vrvm.com
+0.0.0.0 adcentercommunity.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adcreative.naver.com
 0.0.0.0 addshoppers.com
 0.0.0.0 addthis.com
 0.0.0.0 ade.clmbtech.com
+0.0.0.0 adecn.com
 0.0.0.0 adf.send.microad.jp
 0.0.0.0 adition.com
 0.0.0.0 adkengage.com
@@ -224,6 +227,7 @@
 0.0.0.0 adrotator.se
 0.0.0.0 ads-by.madadsmedia.com
 0.0.0.0 ads-by.yieldselect.com
+0.0.0.0 ads-latest.pinterest.com
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.addynamix.com
 0.0.0.0 ads.admarvel.com
@@ -248,6 +252,7 @@
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.nordichardware.se
 0.0.0.0 ads.pinger.com
+0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 ads.qadservice.com
 0.0.0.0 ads.reddit.com
@@ -263,6 +268,8 @@
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads2.msn.com
+0.0.0.0 ads2.msn.com.c.footprint.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adtech.de
@@ -299,6 +306,7 @@
 0.0.0.0 aiogenerator.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
+0.0.0.0 akadns.net
 0.0.0.0 akhbarejavan.ir
 0.0.0.0 al3rba42a.com
 0.0.0.0 album-complet.com
@@ -317,6 +325,7 @@
 0.0.0.0 amung.us
 0.0.0.0 an.yandex.ru
 0.0.0.0 anaface.ir
+0.0.0.0 analytics.pinterest.com
 0.0.0.0 android-er.blogspot.com
 0.0.0.0 android-revolution-hd.blogspot.com
 0.0.0.0 androidandme.com
@@ -331,6 +340,7 @@
 0.0.0.0 anipassion.com
 0.0.0.0 anmi.mam9.com
 0.0.0.0 anotherfriend.com
+0.0.0.0 anti-spamtools.org
 0.0.0.0 anzeigen-buchen.sueddeutsche.de
 0.0.0.0 anzeigen.sueddeutsche.de
 0.0.0.0 ap.lijit.com
@@ -338,6 +348,7 @@
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.content.ad
 0.0.0.0 api.gravity.com
+0.0.0.0 api.skype.com
 0.0.0.0 api.unthem.com
 0.0.0.0 api.viglink.com
 0.0.0.0 api9.net
@@ -390,6 +401,7 @@
 0.0.0.0 azhr158.yoo7.com
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.config.skype.com
 0.0.0.0 b.grvcdn.com
 0.0.0.0 b.rad.msn.com
 0.0.0.0 b88ag.com
@@ -436,7 +448,11 @@
 0.0.0.0 biggab.com
 0.0.0.0 bigpayout.go2jump.org
 0.0.0.0 bigspringherald.com
+0.0.0.0 bing-int.com
+0.0.0.0 bing.com
+0.0.0.0 bing.net
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 binginternal.com
 0.0.0.0 bitcasino.io
 0.0.0.0 blackberry.com
 0.0.0.0 blackmonsterterror.com
@@ -479,8 +495,10 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.betrad.com
+0.0.0.0 c.config.skype.com
 0.0.0.0 c.greystripe.com
 0.0.0.0 c.msn.com
+0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c.w.inmobi.com
 0.0.0.0 c1.nend.net
 0.0.0.0 c1.popads.net
@@ -559,6 +577,7 @@
 0.0.0.0 celebritytoob.com
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cgaria.com
+0.0.0.0 channel.skype.com
 0.0.0.0 cheap-phones.com
 0.0.0.0 cheatcorner.com
 0.0.0.0 cheatfield.co
@@ -574,6 +593,7 @@
 0.0.0.0 chinagadgetsreviews.blogspot.com
 0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 choices.truste.com
 0.0.0.0 choisebestedu.com
 0.0.0.0 christianforums.com
@@ -583,6 +603,7 @@
 0.0.0.0 ciqcol01.ciq.labs.att.com
 0.0.0.0 cirrusinsight.com
 0.0.0.0 city-academy.com
+0.0.0.0 clearlead.com
 0.0.0.0 click2createahero.net
 0.0.0.0 clickadu.com
 0.0.0.0 clickandflirt.com
@@ -608,6 +629,7 @@
 0.0.0.0 conferenceyab.ir
 0.0.0.0 config.samqaicongen.com
 0.0.0.0 confitdent.com
+0.0.0.0 conn.skype.com
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 connect.facebook.net
 0.0.0.0 content.yieldmanager.edgesuite.net
@@ -689,6 +711,8 @@
 0.0.0.0 desirdunsoir.com
 0.0.0.0 desktopnexus.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 devads.skypeassets.net
+0.0.0.0 devapps.skype.net
 0.0.0.0 developed.down.hontamelenton.co.com
 0.0.0.0 devialet.com
 0.0.0.0 df.telemetry.microsoft.com
@@ -701,6 +725,7 @@
 0.0.0.0 dilwale-boxofficecollection.in
 0.0.0.0 dilwalemovie.in
 0.0.0.0 directrev.blob.core.windows.net
+0.0.0.0 discoverbing.com
 0.0.0.0 disqusads.com
 0.0.0.0 divinefeet.com
 0.0.0.0 divisioncore.com
@@ -730,6 +755,8 @@
 0.0.0.0 duluohe.com
 0.0.0.0 dumox.net
 0.0.0.0 dwnlds.co
+0.0.0.0 dynamicsnettools.biz
+0.0.0.0 dynamicsnettools.info
 0.0.0.0 dynaserv.ads360.com
 0.0.0.0 dynavideo.tk
 0.0.0.0 e.admob.com
@@ -824,6 +851,7 @@
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
+0.0.0.0 extras.skype.com
 0.0.0.0 f-oloom7-8.rozblog.com
 0.0.0.0 f1-blick-ch.cdn.ampproject.org
 0.0.0.0 fakty.ua
@@ -836,6 +864,7 @@
 0.0.0.0 farmville2-games.com
 0.0.0.0 fatgranny.com
 0.0.0.0 fatmovieguy.com
+0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
@@ -850,6 +879,7 @@
 0.0.0.0 fiverr.com
 0.0.0.0 fiverrcdn.com
 0.0.0.0 flex.msn.com
+0.0.0.0 flex.msn.com.nsatc.net
 0.0.0.0 flirt.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.doubleclick.net
@@ -994,6 +1024,7 @@
 0.0.0.0 giveawayz.online
 0.0.0.0 giveawayzone.pw
 0.0.0.0 givemegiftcodes.com
+0.0.0.0 global.msads.net
 0.0.0.0 globein.com
 0.0.0.0 go.goroost.com
 0.0.0.0 go.lfstmedia.com
@@ -1011,6 +1042,7 @@
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleplay.redeemcode.xyz
 0.0.0.0 googleplaygiftcardcode.xyz
+0.0.0.0 googletb.skype.com
 0.0.0.0 gqget.com
 0.0.0.0 gsnpakistan.com
 0.0.0.0 gtradersoft.com
@@ -1018,6 +1050,7 @@
 0.0.0.0 gyft.com
 0.0.0.0 gymboree.com
 0.0.0.0 h1.msn.com
+0.0.0.0 h2.msn.com
 0.0.0.0 haaretz.com
 0.0.0.0 hackhackers.com
 0.0.0.0 hackp.com
@@ -1299,6 +1332,9 @@
 0.0.0.0 metssfm.tumblr.com
 0.0.0.0 mhtdownload.ir
 0.0.0.0 mhuai.com
+0.0.0.0 micronewsads.com
+0.0.0.0 microsoftadvertising.com
+0.0.0.0 microsoftclassifiedads.com
 0.0.0.0 mighty1090.com
 0.0.0.0 mihanblog.com
 0.0.0.0 mihanfal.com
@@ -1337,6 +1373,7 @@
 0.0.0.0 mrfreestuff.com
 0.0.0.0 mrnoggin.com
 0.0.0.0 ms.cmcm.com
+0.0.0.0 msads.net
 0.0.0.0 msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
@@ -1347,6 +1384,7 @@
 0.0.0.0 musicema.com
 0.0.0.0 mv.ad.naver.com
 0.0.0.0 mxpopad.com
+0.0.0.0 my.email.skype.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 myactmusic.com
@@ -1423,6 +1461,8 @@
 0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ocsp.apple.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 offer5.skype.com
+0.0.0.0 offer6.skype.com
 0.0.0.0 offerscience.go2jump.org
 0.0.0.0 officer.com
 0.0.0.0 ogar.be
@@ -1498,6 +1538,7 @@
 0.0.0.0 piacerediscreto.com
 0.0.0.0 pillpack.com
 0.0.0.0 pingpangwang.com
+0.0.0.0 pipe.skype.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.quantserve.com
@@ -1527,6 +1568,8 @@
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pratttribune.com
 0.0.0.0 pre.footprintpredict.com
+0.0.0.0 preads.skypeassets.net
+0.0.0.0 preg.bforex.com
 0.0.0.0 pregnent.yoo7.com
 0.0.0.0 premiumapk.net
 0.0.0.0 prepaidreviews.com
@@ -1549,6 +1592,8 @@
 0.0.0.0 punxsutawneyspirit.com
 0.0.0.0 putranaga.com
 0.0.0.0 q1mediahydraplatform.com
+0.0.0.0 qaapi.skype.net
+0.0.0.0 qawww.skypeassets.net
 0.0.0.0 qiankoo.com
 0.0.0.0 qingsongchou.com
 0.0.0.0 quantserve.com
@@ -1562,6 +1607,7 @@
 0.0.0.0 rachelschultz.com
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
+0.0.0.0 rad.msn.com.nsatc.net
 0.0.0.0 radass.com
 0.0.0.0 radioamator.ru
 0.0.0.0 radiojavanmusic.com
@@ -1624,6 +1670,7 @@
 0.0.0.0 s.send.microad.jp
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.zkcdn.net
+0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s1.2mdn.net
 0.0.0.0 s2.adform.net
@@ -1667,6 +1714,7 @@
 0.0.0.0 servedby2.advertising.com
 0.0.0.0 server.cpmstar.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 serving.plexop.net
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sexintouchbbw.com
@@ -1702,11 +1750,14 @@
 0.0.0.0 skafeed.com
 0.0.0.0 skandar.ir
 0.0.0.0 sketchupbar.com
+0.0.0.0 skype.tt.omtrdc.net
 0.0.0.0 slantmagazine.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 smartadserver.com
 0.0.0.0 smartadserver.fr
 0.0.0.0 smartmobilephonesolutions.com
 0.0.0.0 smartphonematters.com
+0.0.0.0 smetrics.skype.com
 0.0.0.0 smokeandshop.com
 0.0.0.0 sms4send.altervista.org
 0.0.0.0 smyfinancial.com
@@ -1756,6 +1807,7 @@
 0.0.0.0 standdesk.co
 0.0.0.0 starkvilledailynews.com
 0.0.0.0 statdate.org
+0.0.0.0 static-asm.secure.skypeassets.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.adzerk.net
 0.0.0.0 static.doubleclick.net
@@ -1858,6 +1910,7 @@
 0.0.0.0 tmonews.com
 0.0.0.0 todaysiphone.com
 0.0.0.0 together2night.com
+0.0.0.0 toolup.com
 0.0.0.0 topak.ir
 0.0.0.0 topgames.ir
 0.0.0.0 toponline.ch
@@ -1871,6 +1924,7 @@
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 traffic.trafficposse.com
+0.0.0.0 trafficmanager.net
 0.0.0.0 transfermarkt.ch
 0.0.0.0 transitionworks.net
 0.0.0.0 travel.com.au
@@ -1894,6 +1948,7 @@
 0.0.0.0 uac.advertising.com
 0.0.0.0 udn.com.tw
 0.0.0.0 uedata.amazon.com
+0.0.0.0 ui.skype.akadns.net
 0.0.0.0 ui.skype.com
 0.0.0.0 uipress.com
 0.0.0.0 ukcigs.co
@@ -1983,6 +2038,7 @@
 0.0.0.0 webfa.ir
 0.0.0.0 websta.me
 0.0.0.0 weiot.net
+0.0.0.0 welcome.skype.com
 0.0.0.0 weltfussball.com
 0.0.0.0 wenbita.net
 0.0.0.0 wes.df.telemetry.microsoft.com
@@ -2106,6 +2162,7 @@
 0.0.0.0 xnxxmovies.com
 0.0.0.0 xostbaku.ru
 0.0.0.0 xp2.zedo.com
+0.0.0.0 yahoobingnetwork.com
 0.0.0.0 yaspsd.ir
 0.0.0.0 yesvion.com
 0.0.0.0 yewn.cn
