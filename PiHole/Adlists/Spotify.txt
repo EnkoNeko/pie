@@ -4,8 +4,10 @@
 
 # Wildcard blacklist: video-ak.cdn.spotify.com
 
+0.0.0.0 spclient.wg.spotify.com    # if you're on iOS, whitelist this or Spotify will not work
+
+0.0.0.0 00.video-ak.cdn.spotify.com
 0.0.0.0 2a7e9.v.fwmrm.net
-0.0.0.0 9.rarbg.to
 0.0.0.0 a.adk2x.com
 0.0.0.0 a.admob.com
 0.0.0.0 a2-16-186-17.deploy.static.akamaitechnologies.com
@@ -236,7 +238,6 @@
 0.0.0.0 heads4-ak.spotify.com.edgesuite.net
 0.0.0.0 heads4-akp.spotify.com.edgesuite.net
 0.0.0.0 i.admob.com
-0.0.0.0 i.scdn.co
 0.0.0.0 ia1.comscore.com
 0.0.0.0 ia2.comscore.com
 0.0.0.0 iad.comscore.com
@@ -368,7 +369,6 @@
 0.0.0.0 siterecruit.comscore.com
 0.0.0.0 smtp.admob.com
 0.0.0.0 smtp2.admob.com
-0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spotxchange.com
 0.0.0.0 stage.tune.com
 0.0.0.0 statsf-tm.everesttech.net
