@@ -1,34 +1,37 @@
-## Sources all mixed together to remove any duplicates ##
-# Updated - 31/07/2018
-# Sources:
+## Sources all mushed together to remove any duplicates ##
 
-# Tracking
-    # https://github.com/CHEF-KOCH/Audio-fingerprint-pages/blob/master/AudioFp.txt
-    # https://github.com/CHEF-KOCH/WebRTC-tracking/blob/master/WebRTC.txt
-    # https://github.com/WindowsLies/BlockWindows/blob/master/hosts
-
-# Gift Card Killer
-    # https://github.com/TakoYachty/Gift-Card-Killer/blob/master/giftcardkiller.txt
-
-# Ads
-    # https://github.com/ReddestDream/reddestdream.github.io/blob/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
-    # https://github.com/ReddestDream/reddestdream.github.io/blob/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
-    # https://gist.github.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/
-    # https://github.com/StevenBlack/hosts/blob/master/data/UncheckyAds/hosts
-    # https://github.com/StevenBlack/hosts/blob/master/data/add.Spam/hosts
-    # https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/Corporations/Skype%20Ad-Free/CK's-Skype-FilterList.txt
+# Sources possibly still active:
+  # https://github.com/CHEF-KOCH/Audio-fingerprint-pages/blob/master/AudioFp.txt
+  # https://gist.github.com/r0ckarong/36140c95bc105ee13cdc672baa940ab0/
+  # https://github.com/StevenBlack/hosts/blob/master/data/UncheckyAds/hosts
+  # https://github.com/StevenBlack/hosts/blob/master/data/add.Spam/hosts
+  
 
 0.0.0.0 0576qq.com
 0.0.0.0 100.1qingdao.com
 0.0.0.0 101progs.ru
+0.0.0.0 104.146.0.0-104.146.0.19
+0.0.0.0 104.146.128.0-104.146.128.17
+0.0.0.0 104.208.0.0-104.208.0.13
+0.0.0.0 104.40.0.0-104.40.0.13
 0.0.0.0 1080.plus
+0.0.0.0 111.221.16.0-111.221.16.20
+0.0.0.0 111.221.64.0-111.221.64.18
 0.0.0.0 1174.getgiftcards.org
+0.0.0.0 13.104.0.0-13.104.0.14
+0.0.0.0 13.107.20.0-13.107.20.24
+0.0.0.0 13.64.0.0-13.64.0.11
+0.0.0.0 131.253.1.0-131.253.1.24
+0.0.0.0 134.170.30.202
+0.0.0.0 137.116.81.24
 0.0.0.0 16059.getgiftcards.org
 0.0.0.0 1800sports.in
 0.0.0.0 1app.blob.core.windows.net
+0.0.0.0 204.79.197.200
 0.0.0.0 21653.getgiftcards.org
 0.0.0.0 2287652162056513113_7f979e3409b78c9266cf8ff16f80c3affd43dc2c.blogspot.com
 0.0.0.0 22momot.ucoz.com
+0.0.0.0 23.218.212.69
 0.0.0.0 24sevenapps.com
 0.0.0.0 2912a.v.fwmrm.net
 0.0.0.0 29773.v.fwmrm.net
@@ -52,6 +55,8 @@
 0.0.0.0 5ok.com.ru
 0.0.0.0 5ok.com.ua
 0.0.0.0 5tjt.com
+0.0.0.0 65.39.117.230
+0.0.0.0 65.55.108.23
 0.0.0.0 6blog.ir
 0.0.0.0 703804.com
 0.0.0.0 7ganj.ir
@@ -81,6 +86,7 @@
 0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adtech.de
 0.0.0.0 a.config.skype.com
+0.0.0.0 a.global.msads.net
 0.0.0.0 a.goember.com
 0.0.0.0 a.jumptap.com
 0.0.0.0 a.kat.cr
