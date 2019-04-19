@@ -1,6 +1,6 @@
 ### EnkoNeko --- Blocks Google ads for Pi-Hole ###
+# YouTube (partial) adblocking coming soon to a repo near you (tm)
 
-0.0.0.0 
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2975c.v.fwmrm.net
